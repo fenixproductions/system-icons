@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="app-office-xslx-16.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-office-xlsx\app-office-xslx-16.png"
+   inkscape:export-filename="D:\code\GitHub\system-icons\file-types\app-office-xlsx\app-office-xslx-16.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1262,6 +1262,16 @@
        y1="-368"
        x2="-432"
        y2="-208" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4047-4"
+       id="linearGradient3178"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.05401483,0,0,0.05401483,35.425804,23.786056)"
+       x1="-576"
+       y1="-368"
+       x2="-432"
+       y2="-208" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1270,9 +1280,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.112698"
-     inkscape:cx="8.5704343"
-     inkscape:cy="4.0698052"
+     inkscape:zoom="87.999999"
+     inkscape:cx="4.8660266"
+     inkscape:cy="4.0732077"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -1280,8 +1290,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
-     inkscape:window-x="1592"
+     inkscape:window-height="1031"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -1359,15 +1369,10 @@
        id="path3808"
        d="M 13,50 3,50 3,62 13,62 z"
        style="fill:url(#linearGradient3587);fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <g
-       style="font-size:232.91357422px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3592);fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       id="text4035"
-       transform="matrix(0.05401483,0,0,0.05401483,35.425804,71.628922)">
-      <path
-         d="m -432.17401,-207.80252 -43.55757,0 -28.09065,-53.11066 c -1.06154,-1.97122 -2.1609,-5.61049 -3.29809,-10.91783 l -0.45491,0 c -0.53081,2.50206 -1.78181,6.29297 -3.75301,11.37273 l -28.20437,52.65576 -43.78503,0 51.97339,-81.5425 -47.53802,-81.54249 44.69484,0 23.3141,48.90275 c 1.81957,3.86684 3.44966,8.45384 4.89028,13.76101 l 0.45491,0 c 0.90974,-3.18427 2.61565,-7.9229 5.11773,-14.21592 l 25.92983,-48.44784 40.94184,0 -48.90275,80.86013 z"
-         style="fill:url(#linearGradient3580)"
-         id="path4064"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="font-size:232.91357421999999000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3178);fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+       d="M 4.15625 3.59375 L 6.71875 8 L 3.90625 12.40625 L 6 12.40625 L 6.28125 12.40625 L 8 12.40625 L 8 10.8125 L 7.125 10.8125 L 7.8125 9.5625 C 7.9189742 9.288118 7.971328 9.072649 8 8.9375 L 8.03125 8.9375 C 8.0926752 9.224175 8.1614111 9.424775 8.21875 9.53125 L 9.71875 12.40625 L 12.09375 12.40625 L 9.375 7.96875 L 12 3.59375 L 9.78125 3.59375 L 8.40625 6.21875 C 8.2711005 6.558666 8.174139 6.796752 8.125 6.96875 L 8.09375 6.96875 C 8.0159351 6.682084 7.942034 6.458867 7.84375 6.25 L 6.5625 3.59375 L 4.15625 3.59375 z "
+       transform="translate(0,48)"
+       id="path4064" />
   </g>
 </svg>
