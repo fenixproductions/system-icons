@@ -5,3 +5,8 @@ y:	144
 ## bottom right logo for: 64x64
 x:	24
 y:	28
+
+Courier new
+bold
+10
+courier 1.6

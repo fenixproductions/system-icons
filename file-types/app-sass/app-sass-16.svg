@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="app-sass-16.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-sass-16.png"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-sass\app-sass-16.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -37,8 +37,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="43.999999"
-     inkscape:cx="2.0885106"
-     inkscape:cy="6.3255323"
+     inkscape:cx="1.6907833"
+     inkscape:cy="7.4060175"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -109,45 +109,17 @@
      transform="translate(0,-48)">
     <path
        style="fill:#d3d3d3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 2,49 12,0 0,14 -12,0 z"
+       d="m 1,49 14,0 0,14 -14,0 z"
        id="rect3021"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 3,50 10,0 0,12 -10,0 z"
+       d="m 2,50 12,0 0,12 -12,0 z"
        id="rect3791"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4017"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
-       transform="matrix(0.09669642,0,0,0.09669642,9.243133,7.6461371)"><flowRegion
-         id="flowRegion4019"><rect
-           id="rect4021"
-           width="310.24362"
-           height="424.95319"
-           x="80.22448"
-           y="33.738686"
-           style="font-weight:bold;fill:#000000;fill-opacity:1;-inkscape-font-specification:Courier New Bold" /></flowRegion><flowPara
-         id="flowPara4023">$media-desktop: 1024px;</flowPara><flowPara
-         id="flowPara4025">$media-mobile: 600px;</flowPara><flowPara
-         id="flowPara4027" /><flowPara
-         id="flowPara4029">@mixin desktop-only {</flowPara><flowPara
-         id="flowPara4031"> @media all and (min-width: $media-desktop)</flowPara><flowPara
-         id="flowPara4033"> {</flowPara><flowPara
-         id="flowPara4035">  @content;</flowPara><flowPara
-         id="flowPara4037"> }</flowPara><flowPara
-         id="flowPara4039">}</flowPara><flowPara
-         id="flowPara4041" /><flowPara
-         id="flowPara4043">@include desktop-only {</flowPara><flowPara
-         id="flowPara4045"> .col-two {</flowPara><flowPara
-         id="flowPara4047">  .c11v6-pilot {</flowPara><flowPara
-         id="flowPara4049">   width: 33%;</flowPara><flowPara
-         id="flowPara4051">   float: left;</flowPara><flowPara
-         id="flowPara4053">  }</flowPara><flowPara
-         id="flowPara4231"> }</flowPara></flowRoot>    <g
-       transform="matrix(0.0234699,0,0,-0.0234699,1.5719348,60.818317)"
+    <g
+       transform="matrix(0.02435492,0,0,-0.02435492,1.32954,61.000008)"
        inkscape:label="ink_ext_XXXXXX"
        id="g3000"
        style="fill:#ff0000;fill-opacity:1">

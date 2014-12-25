@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="app-office-doc-16.svg"
-   inkscape:export-filename="D:\code\GitHub\system-icons\file-types\app-office-doc\app-office-doc-16.png"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-office-doc\app-office-doc-16.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -2508,8 +2508,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="62.225395"
-     inkscape:cx="10.760727"
+     inkscape:zoom="43.999999"
+     inkscape:cx="7.6811815"
      inkscape:cy="8.285126"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2518,8 +2518,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
-     inkscape:window-x="-8"
+     inkscape:window-height="1028"
+     inkscape:window-x="1592"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -2581,7 +2581,7 @@
      transform="translate(0,-48)">
     <path
        style="fill:#1a3d8a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 14,49 2,49 2,63 14,63 z"
+       d="M 15,49 1,49 1,63 15,63 z"
        id="rect3017"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -2595,12 +2595,12 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3808"
-       d="M 13,50 3,50 3,62 13,62 z"
+       d="M 14,50 2,50 2,62 14,62 z"
        style="fill:#dbeafa;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        style="font-size:109.7852478px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a3d8a;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       d="m 3.5246936,52 1.6695129,8 1.65169,0 1.0783507,-5.133309 c 0.050173,-0.23434 0.089287,-0.532595 0.1158561,-0.89714 l 0.017824,0 c 0.011801,0.331067 0.044919,0.629322 0.101002,0.89714 L 9.2135156,60 10.79688,60 12.475306,52 c -0.481248,0 -1.443743,0 -1.443743,0 l -0.187152,1.140735 -0.689194,4.197549 c -0.05018,0.301306 -0.08029,0.600309 -0.09209,0.894171 l -0.01782,0 C 10.015776,57.856758 9.9826587,57.571083 9.944299,57.373932 L 8.9045669,52 7.371704,52 6.2190863,57.305607 c -0.07379,0.338503 -0.1159338,0.652308 -0.1277385,0.93873 l -0.02674,0 C 6.0468984,57.861201 6.0197965,57.556282 5.9814291,57.329373 L 5.0872625,52 z"
+       d="m 3.0000001,51.531032 1.8652499,8.937936 1.8453375,0 1.2047787,-5.735148 c 0.056056,-0.261815 0.099755,-0.595038 0.1294393,-1.002323 l 0.019913,0 c 0.013184,0.369882 0.050185,0.703105 0.1128437,1.002323 l 1.1782281,5.735148 1.7690017,0 L 13,51.531032 c -0.53767,0 -1.61301,0 -1.61301,0 l -0.209095,1.274477 -0.769996,4.689678 c -0.05606,0.336632 -0.0897,0.670691 -0.102889,0.999005 l -0.0199,0 c -0.033,-0.419744 -0.07,-0.738912 -0.112851,-0.959177 l -1.1616321,-6.003983 -1.7125788,0 -1.2877529,5.927647 c -0.082441,0.378189 -0.1295261,0.728786 -0.1427148,1.048788 l -0.029875,0 C 5.8179132,58.079412 5.7876339,57.738744 5.7447682,57.485231 L 4.7457676,51.531032 z"
        id="path4080"
        sodipodi:nodetypes="cccccccccccccccccccccccc" />
     <text

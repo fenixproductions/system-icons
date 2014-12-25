@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="app-office-xslx-16.svg"
-   inkscape:export-filename="D:\code\GitHub\system-icons\file-types\app-office-xlsx\app-office-xslx-16.png"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-office-xlsx\app-office-xslx-16.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1237,7 +1237,7 @@
        xlink:href="#linearGradient3810-7"
        id="linearGradient3587"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.05202152,0,0,0.05202152,-5.677491,65.325722)"
+       gradientTransform="matrix(0.06242582,0,0,0.05202152,-8.4129892,65.325722)"
        x1="165.29134"
        y1="-290.77429"
        x2="363.38715"
@@ -1247,7 +1247,7 @@
        xlink:href="#linearGradient3788-11"
        id="linearGradient3590"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.05202152,0,0,0.05202152,-11.006996,65.992692)"
+       gradientTransform="matrix(0.06069178,0,0,0.05202152,-14.174828,65.992692)"
        x1="140"
        y1="-192"
        x2="372"
@@ -1267,7 +1267,7 @@
        xlink:href="#linearGradient4047-4"
        id="linearGradient3178"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.05401483,0,0,0.05401483,35.425804,23.786056)"
+       gradientTransform="matrix(0.06129342,0,0,0.06129342,39.12148,73.913255)"
        x1="-576"
        y1="-368"
        x2="-432"
@@ -1280,9 +1280,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="87.999999"
-     inkscape:cx="4.8660266"
-     inkscape:cy="4.0732077"
+     inkscape:zoom="44"
+     inkscape:cx="-6.3812407"
+     inkscape:cy="6.9566976"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -1290,8 +1290,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
-     inkscape:window-x="-8"
+     inkscape:window-height="1028"
+     inkscape:window-x="1592"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -1353,7 +1353,7 @@
      transform="translate(0,-48)">
     <path
        style="fill:url(#linearGradient3590);fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 14,49 2,49 2,63 14,63 z"
+       d="M 15,49 1,49 1,63 15,63 z"
        id="rect3017"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1367,12 +1367,12 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3808"
-       d="M 13,50 3,50 3,62 13,62 z"
+       d="M 14,50 2,50 2,62 14,62 z"
        style="fill:url(#linearGradient3587);fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
-       style="font-size:232.91357421999999000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3178);fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       d="M 4.15625 3.59375 L 6.71875 8 L 3.90625 12.40625 L 6 12.40625 L 6.28125 12.40625 L 8 12.40625 L 8 10.8125 L 7.125 10.8125 L 7.8125 9.5625 C 7.9189742 9.288118 7.971328 9.072649 8 8.9375 L 8.03125 8.9375 C 8.0926752 9.224175 8.1614111 9.424775 8.21875 9.53125 L 9.71875 12.40625 L 12.09375 12.40625 L 9.375 7.96875 L 12 3.59375 L 9.78125 3.59375 L 8.40625 6.21875 C 8.2711005 6.558666 8.174139 6.796752 8.125 6.96875 L 8.09375 6.96875 C 8.0159351 6.682084 7.942034 6.458867 7.84375 6.25 L 6.5625 3.59375 L 4.15625 3.59375 z "
-       transform="translate(0,48)"
-       id="path4064" />
+       style="font-size:232.91357422px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3178);fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+       d="m 3.6382979,51 2.9078014,5 -3.1914894,5 2.3758866,0 0.3191489,0 1.9503547,0 0,-1.808511 -0.9929079,0 0.7801418,-1.418439 c 0.1208218,-0.311356 0.1802304,-0.55586 0.2127661,-0.70922 l 0.035461,0 c 0.069702,0.325305 0.1477006,0.552936 0.2127661,0.673759 L 9.9503547,61 12.64539,61 9.5602838,55.964539 12.539007,51 l -2.51773,0 -1.560284,2.978723 c -0.1533611,0.385721 -0.2633884,0.655889 -0.3191489,0.851064 l -0.035461,0 C 8.0180825,54.504492 7.934223,54.251197 7.822695,54.014184 L 6.3687943,51 3.6382979,51 z"
+       id="path4064"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

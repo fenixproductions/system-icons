@@ -303,7 +303,7 @@
        xlink:href="#linearGradient3810"
        id="linearGradient3261"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.0430143,0,0,0.0430143,-3.0571387,64.274907)"
+       gradientTransform="matrix(0.05790463,0,0,0.05790462,-6.8614626,67.120301)"
        x1="165.29134"
        y1="-290.77429"
        x2="363.38715"
@@ -316,9 +316,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22"
-     inkscape:cx="-8.3857028"
-     inkscape:cy="6.031622"
+     inkscape:zoom="44"
+     inkscape:cx="1.591264"
+     inkscape:cy="7.4339124"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -378,7 +378,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -389,23 +389,23 @@
      transform="translate(0,-48)">
     <path
        style="fill:#005f31;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 2,49 12,0 0,14 -12,0 z"
+       d="m 1,49 14,0 0,14 -14,0 z"
        id="rect3021"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 3,50 10,0 0,12 -10,0 z"
+       d="m 2,50 12,0 0,12 -12,0 z"
        id="rect3791"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:url(#linearGradient3261);fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 12.439743,51.557136 -8.9141679,0 0,8.914169 8.9141679,0 z"
+       d="M 14,50 2,50 2,62 14,62 z"
        id="path4125"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <g
-       transform="matrix(0.05303764,0,0,0.05303764,34.92964,71.346177)"
+       transform="matrix(0.06131772,0,0,0.06131772,39.133815,73.741976)"
        id="g4127"
        style="font-size:232.91357422px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#005f31;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold">
       <path
