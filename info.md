@@ -11,16 +11,18 @@ bold
 10
 courier 1.6
 
---
+------------------------
 # extensions TO DO
 ## archives
+	archive
 zip
 rar
 7z
 
 ## images
+	image
 png
-jpg
+	jpg
 gif
 
 # images other
@@ -32,15 +34,15 @@ ps
 (http://www.mailbigfile.com/101-most-popular-file-types/)
 Position	Extension	Example File Type	%
 1	zip	Zip archive	28.12
-2	pdf	PDF Document	12.79
+-2	pdf	PDF Document	12.79
 3	mp3	MP3 Audio File	10.38
-4	jpg	JPEG Image	8.04
+-4	jpg	JPEG Image	8.04
 5	rar	RAR Archive	7.01
 6	exe	Executable file	3.38
 7	wmv	Windows Media Video	3.18
-8	doc	Microsoft Word Document	2.37
+-8	doc	Microsoft Word Document	2.37
 9	avi	Audio Video Interleave	2.29
-10	ppt	Microsoft PowerPoint Presentation	2.03
+-10	ppt	Microsoft PowerPoint Presentation	2.03
 11	mpg	MPEG-1 Video	1.88
 12	tif	Tagged Image File Format	1.85
 13	wav	Waveform Audio Format	1.39
@@ -52,7 +54,7 @@ Position	Extension	Example File Type	%
 19	eps	Encapsulated PostScript	0.83
 20	cdr	Corel Draw Vector or Raw Audio CD	0.62
 21	ai	Adobe Illustrator document	0.52
-22	xls	Microsoft Excel spreadsheet	0.49
+-22	xls	Microsoft Excel spreadsheet	0.49
 23	mp4	MPEG-4 Part 14	0.45
 24	txt	Plain text file	0.38
 25	m4a	MPEG-4 Part 14	0.34
@@ -74,7 +76,7 @@ Position	Extension	Example File Type	%
 41	mdb	Microsoft Access	0.12
 42	chm	Microsoft Compressed HTML Help	0.09
 43	jar	Java ARchive	0.09
-44	htm	Hypertext Markup Language (HTML)	0.09
++44	htm	Hypertext Markup Language (HTML)	0.09
 45	dvf	Sony Compressed Voice File	0.09
 46	dss	DCC Active Designer File	0.08
 47	dmg	Disk image	0.08
@@ -90,14 +92,14 @@ Position	Extension	Example File Type	%
 57	rtf	Rich Text Format	0.06
 58	aiff	Audio Interchange File Format	0.06
 59	msi	Windows Installer	0.06
-60	jpeg	JPEG image	0.06
+-60	jpeg	JPEG image	0.06
 61	3gp	Third Generation Partnership Project	0.05
 62	cdl	CADKEY Advanced Design Language (CADL)	0.05
 63	vob	DVD-Video Object	0.05
 64	ace	ACE archive	0.05
 65	m4p	Protected AAC File	0.04
 66	divx	DivX video	0.04
-67	html	Hypertext Markup Language (HTML) document	0.04
+-67	html	Hypertext Markup Language (HTML) document	0.04
 68	pst	Microsoft Personal STorage	0.03
 69	cab	Microsoft Windows compressed archive	0.03
 70	ttf	TrueType font	0.03
@@ -115,7 +117,7 @@ Position	Extension	Example File Type	%
 82	mcd	MathCad file; MathCad	0.02
 83	ss	Bitmap graphics; Splash	0.02
 84	m4v	MPEG-4 Part 14	0.02
-85	eml	E-mail message	0.02
+-85	eml	E-mail message	0.02
 86	mid	Musical Instrument Digital Interface	0.02
 87	ogg	Ogg	0.02
 88	ram	RealAudio	0.02
@@ -137,10 +139,10 @@ Position	Extension	Example File Type	%
 (http://www.fileinfo.com/filetypes/common)
 
 ## Text Files
-.doc	Microsoft Word Document
-.docx	Microsoft Word Open XML Document
+	.doc	Microsoft Word Document
+	.docx	Microsoft Word Open XML Document
 .log	Log File
-.msg	Outlook Mail Message
+?.msg	Outlook Mail Message
 .odt	OpenDocument Text Document
 .pages	Pages Document
 .rtf	Rich Text Format File
@@ -157,14 +159,14 @@ Position	Extension	Example File Type	%
 .key	Keynote Presentation
 .keychain	Mac OS X Keychain File
 .pps	PowerPoint Slide Show
-.ppt	PowerPoint Presentation
-.pptx	PowerPoint Open XML Presentation
+	.ppt	PowerPoint Presentation
+	.pptx	PowerPoint Open XML Presentation
 .sdf	Standard Data File
 .tar	Consolidated Unix File Archive
 .tax2012	TurboTax 2012 Tax Return
 .tax2014	TurboTax 2014 Tax Return
 .vcf	vCard File
-.xml	XML File
+	.xml	XML File
 
 ## Audio Files
 .aif	Audio Interchange File Format
@@ -223,12 +225,12 @@ Position	Extension	Example File Type	%
 ## Page Layout Files
 .indd	Adobe InDesign Document
 .pct	Picture File
-.pdf	Portable Document Format File
+	.pdf	Portable Document Format File
 
 ## Spreadsheet Files
 .xlr	Works Spreadsheet
-.xls	Excel Spreadsheet
-.xlsx	Microsoft Excel Open XML Spreadsheet
+	.xls	Excel Spreadsheet
+	.xlsx	Microsoft Excel Open XML Spreadsheet
 
 ## Database Files
 .accdb	Access 2007 Database File
@@ -248,7 +250,7 @@ Position	Extension	Example File Type	%
 .gadget	Windows Gadget
 .jar	Java Archive File
 .pif	Program Information File
-.vb	VBScript File
+	.vb	VBScript File
 .wsf	Windows Script File
 
 ## Game Files
@@ -273,10 +275,10 @@ Position	Extension	Example File Type	%
 .cer	Internet Security Certificate
 .cfm	ColdFusion Markup File
 .csr	Certificate Signing Request File
-.css	Cascading Style Sheet
+	.css	Cascading Style Sheet
 .htm	Hypertext Markup Language File
-.html	Hypertext Markup Language File
-.js	JavaScript File
+	.html	Hypertext Markup Language File
+	.js	JavaScript File
 .jsp	Java Server Page
 .php	PHP Source Code File
 .rss	Rich Site Summary
