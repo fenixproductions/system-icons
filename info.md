@@ -15,9 +15,9 @@ courier 1.6
 # extensions TO DO
 ## archives
 	archive
-zip
-rar
-7z
+	zip
+	rar
+	7z
 
 ## images
 	image
@@ -33,11 +33,11 @@ ps
 # 101 Most Popular File Types Sent Through MailBigFile
 (http://www.mailbigfile.com/101-most-popular-file-types/)
 Position	Extension	Example File Type	%
-1	zip	Zip archive	28.12
+-1	zip	Zip archive	28.12
 -2	pdf	PDF Document	12.79
 3	mp3	MP3 Audio File	10.38
 -4	jpg	JPEG Image	8.04
-5	rar	RAR Archive	7.01
+-5	rar	RAR Archive	7.01
 6	exe	Executable file	3.38
 7	wmv	Windows Media Video	3.18
 -8	doc	Microsoft Word Document	2.37
