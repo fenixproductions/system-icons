@@ -83177,9 +83177,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="62.225396"
-     inkscape:cx="6.3784494"
-     inkscape:cy="10.126642"
+     inkscape:zoom="31.112698"
+     inkscape:cx="-1.264297"
+     inkscape:cy="8.0926762"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -83271,13 +83271,8 @@
          x="-18.146603"
          y="100.1508" /></text>
     <path
-       style="fill:#d3d3d3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 21,49 14,0 0,14 -14,0 z"
-       id="rect3021"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 2,50 12,0 0,12 -12,0 z"
+       d="m 1,49 14,0 0,14 -14,0 z"
        id="rect3791"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -83337,30 +83332,20 @@
          x="-8.2308064"
          y="68.168381" /></text>
     <path
-       sodipodi:type="arc"
-       style="fill:#ff0000;fill-opacity:1;stroke:none;opacity:0.16814159"
-       id="path8448"
-       sodipodi:cx="756"
-       sodipodi:cy="260"
-       sodipodi:rx="76"
-       sodipodi:ry="76"
-       d="m 832,260 a 76,76 0 1 1 -152,0 76,76 0 1 1 152,0 z"
-       transform="matrix(-0.03947371,0,0,-0.03947369,34.842125,63.263158)" />
-    <path
-       style="fill:#552200;fill-opacity:1;stroke:none;opacity:0.16814159"
-       d="m 9,52 5,0 0,5 -5,0 z"
-       id="rect4566"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#ff6600;fill-opacity:1;stroke:none;opacity:0.16814159"
-       inkscape:transform-center-y="-24"
-       d="m 7,53 3,5 -6,0 z"
+       style="fill:#ff6600;fill-opacity:1;stroke:none"
+       inkscape:transform-center-y="-38.399995"
+       d="M 7.9999999,52 13,60 3.0000001,60 z"
        id="path4578"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#bc9100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 8,48 8,0 0,8 z"
+       id="rect3021"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
     <g
-       transform="matrix(1.9611488,0,0,1.9611488,117.03498,84.530411)"
+       transform="matrix(1.9611488,0,0,1.9611488,97.03498,84.530411)"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bc9100;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
        id="text8630">
       <path

@@ -55251,9 +55251,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="43.999999"
-     inkscape:cx="6.7037907"
-     inkscape:cy="12.957299"
+     inkscape:zoom="22"
+     inkscape:cx="-4.4391313"
+     inkscape:cy="14.46027"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -55346,8 +55346,7 @@
          y="100.1508" /></text>
     <g
        id="g3458"
-       transform="matrix(0.08749851,0,0,0.08749851,22.699869,79.799595)"
-       style="opacity:0.27876106">
+       transform="matrix(0.07499957,0,0,0.07499957,19.60003,77.399848)">
       <path
          transform="translate(0,-448)"
          d="m -88,176 c 0,44.18278 -35.81722,80 -80,80 -44.18278,0 -80,-35.81722 -80,-80 0,-44.18278 35.81722,-80 80,-80 44.18278,0 80,35.81722 80,80 z"
@@ -55398,13 +55397,13 @@
     <text
        xml:space="preserve"
        style="font-size:7.6765728px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f26b01;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
-       x="0.80508727"
+       x="-19.194912"
        y="58.144043"
        id="text5907"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5909"
-         x="0.80508727"
+         x="-19.194912"
          y="58.144043">odp</tspan></text>
     <text
        xml:space="preserve"
@@ -55450,5 +55449,12 @@
          id="tspan3221-1"
          x="50.13335"
          y="66.392525" /></text>
+    <path
+       transform="translate(0,48)"
+       style="fill:#f26b01;fill-opacity:1;stroke:none"
+       d="m 8,0 8,0 0,8 z"
+       id="rect11369"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

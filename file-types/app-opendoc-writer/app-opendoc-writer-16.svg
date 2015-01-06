@@ -27386,7 +27386,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22"
-     inkscape:cx="16.588905"
+     inkscape:cx="9.4979959"
      inkscape:cy="3.6712376"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -27492,7 +27492,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot10808"
-       style="font-size:1px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma;opacity:0.24336283"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma;opacity:1"
        transform="translate(0,48)"><flowRegion
          id="flowRegion10810"><rect
            id="rect10812"
@@ -27500,23 +27500,23 @@
            height="13.954546"
            x="1.0454545"
            y="1.0454544"
-           style="font-size:1px" /></flowRegion><flowPara
+           style="font-size:2px" /></flowRegion><flowPara
          id="flowPara10814">The <flowSpan
-   style="font-weight:bold"
+   style="font-weight:bold;font-size:2px"
    id="flowSpan10834">Open Document Format for Office Applications (ODF)</flowSpan>, also known as <flowSpan
-   style="font-weight:bold"
+   style="font-weight:bold;font-size:2px"
    id="flowSpan10836">OpenDocument</flowSpan>, is an <flowSpan
-   style="fill:#0044aa"
+   style="fill:#0044aa;font-size:2px"
    id="flowSpan10838">XML</flowSpan>-based <flowSpan
-   style="fill:#0044aa"
+   style="fill:#0044aa;font-size:2px"
    id="flowSpan10840">file format</flowSpan> for <flowSpan
-   style="fill:#0044aa"
+   style="fill:#0044aa;font-size:2px"
    id="flowSpan10844">spreadsheets</flowSpan>, <flowSpan
-   style="fill:#0044aa"
+   style="fill:#0044aa;font-size:2px"
    id="flowSpan10846">charts</flowSpan>, <flowSpan
-   style="fill:#0044aa"
+   style="fill:#0044aa;font-size:2px"
    id="flowSpan10848">presentations</flowSpan> and <flowSpan
-   style="fill:#0044aa"
+   style="fill:#0044aa;font-size:2px"
    id="flowSpan10850">word processing</flowSpan> documents. It was developed with the aim of providing an open, XML-based file format specification for office applications.[2]The standard was developed by a technical committee in the Organization for the Advancement of Structured Information Standards (OASIS) consortium.[3] It was based on the Sun Microsystems specification for OpenOffice.org XML, the default format for OpenOffice.org, which had been specifically intended &quot;to provide an open standard for office documents.&quot;[4]In addition to being an OASIS standard, version 1.1 is published as an ISO/IEC international standard, ISO/IEC 26300:2006/Amd 1:2012 — Open Document Format for Office Applications (OpenDocument) v1.1.[5][6]The original OpenDocument format consists of an XML document that has &lt;document&gt; as its root element. OpenDocument files can also take the format of a ZIP compressed archive containing a number of files and directories; these can contain binary content and benefit from ZIP's lossless compression to reduce file size. OpenDocument benefits from separation of concerns by separating the content, styles, metadata, and application settings into four separate XML files.There is a comprehensive set of example documents in OpenDocument format available.[9] The whole test suite is available under the Creative Commons Attribution 2.5 license.</flowPara><flowPara
          id="flowPara10816" /><flowPara
          id="flowPara10818" /><flowPara
@@ -27529,7 +27529,7 @@
          id="flowPara10832" /></flowRoot>    <g
        style="font-size:6.80000019px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0e85cd;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
        id="text12196"
-       transform="matrix(1.2616608,0,0,1.2616608,-5.5261376,-13.99051)">
+       transform="matrix(1.2616608,0,0,1.2616608,-25.526138,-13.99051)">
       <path
          d="m 9.0242189,56.137305 c -4.1e-6,0.613152 -0.1676797,1.096257 -0.5030274,1.449316 -0.3353548,0.35306 -0.8096056,0.52959 -1.4227539,0.52959 -0.6087255,0 -1.0818696,-0.17653 -1.4194337,-0.52959 -0.3375654,-0.353059 -0.5063478,-0.836164 -0.5063476,-1.449316 -2e-7,-0.61979 0.1687822,-1.105108 0.5063476,-1.455957 0.3375641,-0.350843 0.8107082,-0.526266 1.4194337,-0.52627 0.6109348,4e-6 1.0846322,0.176534 1.4210937,0.52959 0.3364545,0.353063 0.5046835,0.837275 0.5046876,1.452637 z m -1.1919923,0.0066 C 7.8322238,55.922593 7.8139621,55.738316 7.7774415,55.591113 7.7409153,55.443915 7.6905573,55.326044 7.6263673,55.2375 7.5577449,55.144534 7.480271,55.079788 7.3939454,55.043262 c -0.08633,-0.03652 -0.184833,-0.05478 -0.2955078,-0.05479 -0.1040385,3e-6 -0.1981139,0.01605 -0.2822266,0.04814 -0.084116,0.0321 -0.1615902,0.09353 -0.2324219,0.184277 -0.066408,0.08633 -0.1195327,0.204756 -0.159375,0.355274 -0.039845,0.150523 -0.059767,0.339781 -0.059766,0.567773 -1.4e-6,0.227997 0.018814,0.412274 0.056445,0.552832 0.037629,0.140561 0.086327,0.252899 0.1460937,0.337012 0.061978,0.08633 0.1394515,0.149415 0.2324219,0.189258 0.092967,0.03984 0.1958965,0.05977 0.3087891,0.05976 0.092967,10e-7 0.1875954,-0.01992 0.2838867,-0.05976 0.096287,-0.03984 0.1732071,-0.09961 0.2307617,-0.179297 0.068617,-0.09518 0.1206353,-0.209732 0.1560547,-0.343652 0.035414,-0.133918 0.053122,-0.319302 0.053125,-0.556153 z"
          id="path5912"
@@ -27546,5 +27546,12 @@
          inkscape:connector-curvature="0"
          style="fill:#0e85cd;fill-opacity:1" />
     </g>
+    <path
+       transform="translate(0,48)"
+       style="fill:#0e85cd;fill-opacity:1;stroke:none"
+       d="m 8,0 8,0 0,8 z"
+       id="rect7154"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

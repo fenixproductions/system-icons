@@ -1,4 +1,8 @@
 # guides
+font:	MV Boli
+stroke:	2px
+stroke:	none
+
 ## bottom right logo for: 512x512
 x:	280
 y:	144
