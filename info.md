@@ -30,7 +30,7 @@ png
 gif
 
 # images other
-svg
+	svg
 ai
 ps
 
@@ -39,7 +39,7 @@ ps
 Position	Extension	Example File Type	%
 -1	zip	Zip archive	28.12
 -2	pdf	PDF Document	12.79
-3	mp3	MP3 Audio File	10.38
+-3	mp3	MP3 Audio File	10.38
 -4	jpg	JPEG Image	8.04
 -5	rar	RAR Archive	7.01
 6	exe	Executable file	3.38
@@ -178,7 +178,7 @@ Position	Extension	Example File Type	%
 .m3u	Media Playlist File
 .m4a	MPEG-4 Audio File
 .mid	MIDI File
-.mp3	MP3 Audio File
+	.mp3	MP3 Audio File
 .mpa	MPEG-2 Audio File
 .ra	Real Audio File
 .wav	WAVE Audio File

@@ -15,8 +15,8 @@
    id="svg3003"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="app-music-16.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-music\app-music-16.png"
+   sodipodi:docname="app-music-mp3-16.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-music-mp3\app-music-mp3-16.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1646,7 +1646,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="43.999999"
-     inkscape:cx="2.9085677"
+     inkscape:cx="1.7153858"
      inkscape:cy="7.4398405"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1725,14 +1725,15 @@
     <text
        sodipodi:linespacing="125%"
        id="text4285"
-       y="60.645817"
-       x="-18.568623"
-       style="font-size:6.03388166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0909f9;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
+       y="61.668575"
+       x="1.4313774"
+       style="font-size:6.03388165999999960px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;font-family:MV Boli;-inkscape-font-specification:MV Boli;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="60.645817"
-         x="-18.568623"
+         y="61.668575"
+         x="1.4313774"
          id="tspan4287"
-         sodipodi:role="line">mp3</tspan></text>
+         sodipodi:role="line"
+         style="font-weight:normal;-inkscape-font-specification:MV Boli;stroke:#ffffff;stroke-opacity:1;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none">mp3</tspan></text>
     <g
        id="layer2"
        inkscape:label="belt"
@@ -1744,7 +1745,7 @@
        inkscape:connector-curvature="0" />
     <g
        style="fill:#ffffff"
-       transform="matrix(0.0342625,0,0,0.06338626,0.46889693,48.378975)"
+       transform="matrix(0.02936786,0,0,0.02716555,1.5447682,49.700282)"
        id="g3144">
       <path
          style="fill:#ffffff"
@@ -1761,5 +1762,16 @@
        id="layer2-8"
        inkscape:label="belt"
        transform="translate(44.912312,-25.745883)" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.03388166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0909f9;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
+       x="-16.568623"
+       y="61.668579"
+       id="text3337"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3339"
+         x="-16.568623"
+         y="61.668579">mp3</tspan></text>
   </g>
 </svg>
