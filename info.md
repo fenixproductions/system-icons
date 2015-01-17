@@ -31,7 +31,7 @@ gif
 
 # images other
 	svg
-ai
+	ai
 ps
 
 # 101 Most Popular File Types Sent Through MailBigFile
@@ -49,7 +49,7 @@ Position	Extension	Example File Type	%
 -10	ppt	Microsoft PowerPoint Presentation	2.03
 11	mpg	MPEG-1 Video	1.88
 12	tif	Tagged Image File Format	1.85
-13	wav	Waveform Audio Format	1.39
+-13	wav	Waveform Audio Format	1.39
 14	mov	QuickTime	1.38
 15	psd	Photoshop Document	1.35
 16	wma	Windows Media Audio	1.25
