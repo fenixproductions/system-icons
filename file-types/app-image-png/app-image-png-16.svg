@@ -12,8 +12,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
-   inkscape:export-filename="D:\code\GitHub\system-icons\file-types\app-image-jpeg-v2\app-image-jpg-v2-16.png"
-   sodipodi:docname="app-image-jpg-v2-16.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-image-png\app-image-png-16.png"
+   sodipodi:docname="app-image-png-16.svg"
    inkscape:version="0.48.5 r10040"
    version="1.1"
    id="svg3003"
@@ -31,12 +31,12 @@
     </clipPath>
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask3010">
+       id="mask3048">
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0"
+         id="path3050"
          d="m 2,48 12,0 0,8 -12,0 z"
-         id="path3012"
-         inkscape:connector-curvature="0" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </mask>
   </defs>
   <sodipodi:namedview
@@ -46,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.112698"
-     inkscape:cx="8.0277275"
-     inkscape:cy="6.7473816"
+     inkscape:zoom="15.556349"
+     inkscape:cx="6.0488445"
+     inkscape:cy="3.0075441"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -56,8 +56,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
-     inkscape:window-x="-8"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -134,23 +134,23 @@
      inkscape:groupmode="layer"
      transform="translate(0,-48)">
     <image
-       y="36"
-       x="-15"
-       id="image3009"
-       xlink:href="file:///D:/code/GitHub/system-icons/assets/warsaw/IMG_2525.JPG"
-       height="33.000004"
-       width="44"
-       mask="url(#mask3010)" />
+       y="47.642666"
+       x="1.4599609"
+       id="image3041"
+       xlink:href="file:///C:/wamp/www/TESTY/git-hub/system-icons/assets/warsaw/crab.png"
+       height="10.155029"
+       width="13.540039"
+       mask="url(#mask3048)" />
     <text
        xml:space="preserve"
-       style="font-size:7.38588381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
-       x="1.7357035"
-       y="61.35025"
+       style="font-size:7.75268126px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
+       x="1.6063093"
+       y="61.267506"
        id="text3000"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3002"
-         x="1.7357035"
-         y="61.35025">jpeg</tspan></text>
+         x="1.6063093"
+         y="61.267506">png</tspan></text>
   </g>
 </svg>

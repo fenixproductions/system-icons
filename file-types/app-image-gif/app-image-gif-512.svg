@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
+   width="512"
+   height="512"
    id="svg3003"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="app-image-png-64.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-image-png\app-image-png-64.png"
+   sodipodi:docname="app-image-gif-512.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-image-gif\app-image-gif-512.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -26,18 +26,31 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3010"
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3008-4">
+      <path
          d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
-         inkscape:connector-curvature="0" />
+         id="path3010-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3008-40">
+      <path
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
+         id="path3010-9" />
     </clipPath>
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask3041">
+       id="mask3048">
       <path
-         style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 5,5 59,5 59,41 5,41 z"
-         id="path3043"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         id="path3050"
+         d="m 18,-430 476,0 0,348 -476,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </mask>
   </defs>
   <sodipodi:namedview
@@ -47,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.8890873"
-     inkscape:cx="109.92183"
-     inkscape:cy="-8.6194194"
+     inkscape:zoom="0.48613591"
+     inkscape:cx="-209.44346"
+     inkscape:cy="-50.775129"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -70,7 +83,7 @@
        snapvisiblegridlinesonly="true" />
     <sodipodi:guide
        orientation="1,0"
-       position="8,176"
+       position="16,376"
        id="guide3013" />
     <sodipodi:guide
        orientation="0,1"
@@ -78,7 +91,7 @@
        id="guide3015" />
     <sodipodi:guide
        orientation="0,1"
-       position="40,8"
+       position="336,16"
        id="guide3017" />
     <sodipodi:guide
        orientation="1,0"
@@ -86,20 +99,16 @@
        id="guide3019" />
     <sodipodi:guide
        orientation="1,0"
-       position="56,96"
+       position="280,312"
        id="guide3104" />
     <sodipodi:guide
        orientation="0,1"
-       position="64,56"
+       position="488,144"
        id="guide3106" />
     <sodipodi:guide
        orientation="1,0"
-       position="24,31"
-       id="guide3176" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="-5,28"
-       id="guide3178" />
+       position="480,-16"
+       id="guide7286" />
   </sodipodi:namedview>
   <metadata
      id="metadata3008">
@@ -116,29 +125,50 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
-    <path
+     inkscape:groupmode="layer"
+     transform="translate(0,448)">
+    <rect
        style="fill:#8b4513;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 4 4 L 4 42 L 60 42 L 60 4 L 4 4 z M 5 5 L 59 5 L 59 41 L 5 41 L 5 5 z "
-       id="rect3021" />
+       id="rect3021"
+       width="480"
+       height="352"
+       x="16"
+       y="-432" />
+    <image
+       y="-448.43433"
+       x="-0.57910156"
+       id="image3045"
+       xlink:href="file:///C:/wamp/www/TESTY/git-hub/system-icons/assets/warsaw/IMG_3640.gif"
+       height="384.43433"
+       width="512.5791"
+       mask="url(#mask3048)" />
     <text
        xml:space="preserve"
-       style="font-size:16.57460785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff0000;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
-       x="55.864689"
-       y="56.230663"
-       id="text2997"
+       style="font-size:96.73812103px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.61559296;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
+       x="318.39862"
+       y="7.2634397"
+       id="text6510"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan2999"
-         x="55.864689"
-         y="56.230663">png</tspan></text>
-    <image
-       y="0.2727356"
-       x="0.36364746"
-       id="image3038"
-       xlink:href="file:///C:/wamp/www/TESTY/git-hub/system-icons/assets/warsaw/crab.png"
-       height="47.727264"
-       width="63.636353"
-       mask="url(#mask3041)" />
+         id="tspan6512"
+         x="318.39862"
+         y="7.2634397"
+         style="font-size:96.73812103px;stroke-width:2.61559296">gif</tspan></text>
+    <rect
+       style="opacity:0.17256637;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect7282"
+       width="112"
+       height="128"
+       x="560"
+       y="368"
+       transform="translate(0,-448)" />
+    <rect
+       style="opacity:0.17256637;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect7284"
+       width="216"
+       height="128"
+       x="280"
+       y="544"
+       transform="translate(0,-448)" />
   </g>
 </svg>

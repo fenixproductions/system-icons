@@ -25,9 +25,9 @@ courier 1.6
 
 ## images
 	image
-png
+	png
 	jpg
-gif
+	gif
 
 # images other
 	svg
@@ -43,7 +43,7 @@ Position	Extension	Example File Type	%
 -4	jpg	JPEG Image	8.04
 -5	rar	RAR Archive	7.01
 -6	exe	Executable file	3.38
-7	wmv	Windows Media Video	3.18
+-7	wmv	Windows Media Video	3.18
 -8	doc	Microsoft Word Document	2.37
 9	avi	Audio Video Interleave	2.29
 -10	ppt	Microsoft PowerPoint Presentation	2.03
@@ -68,13 +68,13 @@ Position	Extension	Example File Type	%
 29	aif	Audio Interchange File	0.28
 30	pub	Microsoft Publisher	0.22
 31	dwg	AutoCAD DWG	0.22
-32	gif	GIF (Graphics Interchange Format) Image	0.22
+-32	gif	GIF (Graphics Interchange Format) Image	0.22
 33	qbb	QuickBooks backup file	0.21
 34	mpeg	MPEG 1 System Stream	0.17
 35	indd	InDesign document	0.17
 36	swf	SWF vector graphics	0.15
 37	asf	Advanced Systems Format	0.15
-38	png	Portable Network Graphics	0.14
+-38	png	Portable Network Graphics	0.14
 39	dat	Data	0.13
 40	rm	RealMedia	0.12
 41	mdb	Microsoft Access	0.12
@@ -116,7 +116,7 @@ Position	Extension	Example File Type	%
 77	mswmm	Windows Movie Maker Project File	0.03
 78	ifo	DVD Info File	0.03
 79	tgz	Archive; WinZipNT - TAR - GNUzip	0.03
-80	log	Log file	0.03
+-80	log	Log file	0.03
 81	dll	Dynamic-link library	0.02
 82	mcd	MathCad file; MathCad	0.02
 83	ss	Bitmap graphics; Splash	0.02
@@ -145,7 +145,7 @@ Position	Extension	Example File Type	%
 ## Text Files
 	.doc	Microsoft Word Document
 	.docx	Microsoft Word Open XML Document
-.log	Log File
+	.log	Log File
 ?.msg	Outlook Mail Message
 .odt	OpenDocument Text Document
 .pages	Pages Document
@@ -209,10 +209,10 @@ Position	Extension	Example File Type	%
 ## Raster Image Files
 .bmp	Bitmap Image File
 .dds	DirectDraw Surface
-.gif	Graphical Interchange Format File
-.jpg	JPEG Image
-.png	Portable Network Graphic
-.psd	Adobe Photoshop Document
+	.gif	Graphical Interchange Format File
+	.jpg	JPEG Image
+	.png	Portable Network Graphic
+	.psd	Adobe Photoshop Document
 .pspimage	PaintShop Pro Image
 .tga	Targa Graphic
 .thm	Thumbnail Image File
@@ -221,10 +221,10 @@ Position	Extension	Example File Type	%
 .yuv	YUV Encoded Image File
 
 ## Vector Image Files
-.ai	Adobe Illustrator File
+	.ai	Adobe Illustrator File
 .eps	Encapsulated PostScript File
 .ps	PostScript File
-.svg	Scalable Vector Graphics File
+	.svg	Scalable Vector Graphics File
 
 ## Page Layout Files
 .indd	Adobe InDesign Document
