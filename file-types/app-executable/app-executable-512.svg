@@ -15,8 +15,8 @@
    id="svg3003"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="app-video-512.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-video\app-video-512.png"
+   sodipodi:docname="app-executable-512.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-executable\app-executable-512.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -171,8 +171,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9445436"
-     inkscape:cx="371.48531"
-     inkscape:cy="471.28904"
+     inkscape:cx="43.451974"
+     inkscape:cy="389.35623"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -180,8 +180,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
-     inkscape:window-x="-8"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -237,12 +237,6 @@
        style="opacity:0.37168141999999998;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3859)"
        transform="matrix(1.0243043,0,0,1.0243043,-6.2219008,8.7636428)" />
     <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 32,-424 448,0 0,456 -448,0 z"
-       id="rect3021-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
        id="path3083"
        d="m 33,-423 446,0 0,454 -446,0 z"
        style="fill:url(#linearGradient3871);fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -251,7 +245,7 @@
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 36,-392 440,0 0,420 -440,0 z"
        id="path3863" />
     <path
@@ -322,5 +316,154 @@
        inkscape:connector-curvature="0"
        id="path3927"
        d="m 443,-416 0,12 -14,0 0,-12 z" />
+    <path
+       id="path6533"
+       d="m 37,-391 438,0 0,418 -438,0 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#a9a9a9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 38,-390 218,0 0,374 -218,0 z"
+       id="rect6535"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="4.8000002"
+       rx="4.8000002"
+       y="-8.8000002"
+       x="335.09094"
+       height="25.800001"
+       width="62"
+       id="rect6546"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect6542"
+       width="60"
+       height="24"
+       x="336"
+       y="-8"
+       rx="4"
+       ry="4" />
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect6548"
+       width="62"
+       height="25.800001"
+       x="403.09094"
+       y="-8.8000002"
+       rx="4.8000002"
+       ry="4.8000002" />
+    <rect
+       ry="4"
+       rx="4"
+       y="-8"
+       x="404"
+       height="24"
+       width="60"
+       id="rect6550"
+       style="fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.2319088px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       x="366.26776"
+       y="9.5483418"
+       id="text6552"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6554"
+         x="366.26776"
+         y="9.5483418">Cancel</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6556"
+       y="9.3326559"
+       x="433.65787"
+       style="font-size:15.2319088px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       xml:space="preserve"><tspan
+         y="9.3326559"
+         x="433.65787"
+         id="tspan6558"
+         sodipodi:role="line">OK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       x="-154.18182"
+       y="603.63635"
+       id="text6560"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-448)"><tspan
+         sodipodi:role="line"
+         id="tspan6562"></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect6572"
+       width="200"
+       height="336"
+       x="264"
+       y="-352"
+       rx="0"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       id="flowRoot6574"
+       transform="translate(0,14.545454)"><flowRegion
+         id="flowRegion6576"><use
+           x="0"
+           y="0"
+           xlink:href="#rect6572"
+           id="use6578"
+           width="512"
+           height="512" /></flowRegion><flowPara
+         id="flowPara6580">In computing, an executable file or executable program, or sometimes simply an executable, causes a computer &quot;to perform indicated tasks according to encoded instructions,&quot;[1] as opposed to a data file that must be parsed by a program to be meaningful. These instructions are traditionally machine code instructions for a physical CPU. However, in a more general sense, a file containing instructions (such as bytecode) for a software interpreter may also be considered executable; even a scripting language source file may therefore be considered executable in this sense.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+       x="264"
+       y="-352"
+       id="text6582"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6584"
+         x="264"
+         y="-352">Executable</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path6613"
+       d="m 39,-389 216,0 0,372 -216,0 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g6607"
+       transform="translate(-557,5)">
+      <rect
+         style="fill:#f1511b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect6588"
+         width="96"
+         height="96"
+         x="608"
+         y="-304" />
+      <rect
+         y="-304"
+         x="704"
+         height="96"
+         width="96"
+         id="rect6590"
+         style="fill:#80cc28;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         style="fill:#00adef;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect6592"
+         width="96"
+         height="96"
+         x="608"
+         y="-208" />
+      <rect
+         y="-208"
+         x="704"
+         height="96"
+         width="96"
+         id="rect6594"
+         style="fill:#fbbc09;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
   </g>
 </svg>

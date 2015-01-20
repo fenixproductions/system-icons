@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg3003"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="app-executable-64.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-executable\app-executable-64.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3005">
+    <clipPath
+       id="clipPath3008"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3010"
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="363.73334"
+       x2="211.73334"
+       y1="500.26666"
+       x1="442.13333"
+       id="linearGradient4091"
+       xlink:href="#linearGradient4085"
+       inkscape:collect="always" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3008-4">
+      <path
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
+         id="path3010-0" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient4085">
+      <stop
+         id="stop4087"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4089"
+         offset="1"
+         style="stop-color:#4f4f4f;stop-opacity:1;" />
+    </linearGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3328">
+      <path
+         style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 5,9 59,9 59,55 5,55 z"
+         id="path3330"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </mask>
+    <clipPath
+       id="clipPath3008-40"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3010-9"
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3008-4-2">
+      <path
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
+         id="path3010-0-4" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3000">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3002"
+         d="m 18,-430 476,0 0,476 -476,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </mask>
+    <mask
+       id="mask4109"
+       maskUnits="userSpaceOnUse">
+      <rect
+         y="-391.63632"
+         x="36"
+         height="344"
+         width="439.68582"
+         id="rect4111"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3008-48">
+      <path
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
+         id="path3010-8" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient4085-4">
+      <stop
+         id="stop4087-0"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4089-9"
+         offset="1"
+         style="stop-color:#4f4f4f;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3865">
+      <stop
+         id="stop3867"
+         offset="0"
+         style="stop-color:#0000a3;stop-opacity:1;" />
+      <stop
+         id="stop3869"
+         offset="1"
+         style="stop-color:#0000de;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3882">
+      <stop
+         id="stop3884"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1;" />
+      <stop
+         id="stop3886"
+         offset="1"
+         style="stop-color:#ff9090;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3890">
+      <stop
+         id="stop3892"
+         offset="0"
+         style="stop-color:#483737;stop-opacity:1;" />
+      <stop
+         id="stop3894"
+         offset="1"
+         style="stop-color:#483737;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3900">
+      <stop
+         id="stop3902"
+         offset="0"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+      <stop
+         id="stop3904"
+         offset="1"
+         style="stop-color:#9090ff;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11"
+     inkscape:cx="53.856528"
+     inkscape:cy="58.644685"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="8,176"
+       id="guide3013" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="184,496"
+       id="guide3015" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="40,8"
+       id="guide3017" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="496,248"
+       id="guide3019" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="56,96"
+       id="guide3104" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="64,56"
+       id="guide3106" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="24,31"
+       id="guide3176" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-5,28"
+       id="guide3178" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3008">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#0000d6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 4,4 60,4 60,56 4,56 z"
+       id="rect3021"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 55,4 4,0 0,4 -4,0 z"
+       id="rect3873"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3876"
+       d="m 50,4 4,0 0,4 -4,0 z"
+       style="fill:#7878ff;fill-opacity:1;stroke:none" />
+    <path
+       style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3915"
+       d="M 56,6.5 56.5,6 56,5.5 56.5,5 57,5.5 57.5,5 58,5.5 57.5,6 58,6.5 57.5,7 57,6.5 56.5,7 z" />
+    <path
+       d="m 53,5 0,2 -2,0 0,-2 z"
+       id="path3935"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       style="font-size:22.35197829999999900px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.19893098px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       x="54.890377"
+       y="73.507759"
+       id="text6560"
+       sodipodi:linespacing="125%"><tspan
+         y="73.507759"
+         x="54.890377"
+         sodipodi:role="line"
+         id="tspan6562" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3278"
+       d="M 5,8 59,8 59,55 5,55 z"
+       style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 6,9 58,9 58,54 6,54 z"
+       id="path3863" />
+    <rect
+       ry="1"
+       rx="1"
+       y="47"
+       x="45"
+       height="5"
+       width="11"
+       id="rect3328"
+       style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.87743449px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+       x="30"
+       y="14"
+       id="text6582"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6584"
+         x="30"
+         y="14">Executable</tspan></text>
+    <g
+       id="g6607"
+       transform="matrix(0.10416667,0,0,0.10416667,-55.333334,51.666667)">
+      <rect
+         style="fill:#f1511b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect6588"
+         width="96"
+         height="96"
+         x="608"
+         y="-304" />
+      <rect
+         y="-304"
+         x="704"
+         height="96"
+         width="96"
+         id="rect6590"
+         style="fill:#80cc28;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         style="fill:#00adef;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect6592"
+         width="96"
+         height="96"
+         x="608"
+         y="-208" />
+      <rect
+         y="-208"
+         x="704"
+         height="96"
+         width="96"
+         id="rect6594"
+         style="fill:#fbbc09;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.0764029px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       x="48.378963"
+       y="50.577042"
+       id="text3330"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3332"
+         x="48.378963"
+         y="50.577042">OK</tspan></text>
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3334"
+       width="11"
+       height="5"
+       x="32.045425"
+       y="47"
+       rx="1"
+       ry="1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3336"
+       y="50.620605"
+       x="33.102066"
+       style="font-size:3.0764029px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       xml:space="preserve"><tspan
+         y="50.620605"
+         x="33.102066"
+         id="tspan3338"
+         sodipodi:role="line">Cancel</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3348"
+       width="26"
+       height="28"
+       x="30"
+       y="16"
+       rx="0"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       id="flowRoot3350"><flowRegion
+         id="flowRegion3352"><use
+           x="0"
+           y="0"
+           xlink:href="#rect3348"
+           id="use3354"
+           width="64"
+           height="64" /></flowRegion><flowPara
+         id="flowPara3356">In computing, an executable file or executable program, or sometimes simply an executable, causes a computer &quot;to perform indicated tasks according to encoded instructions,&quot; as opposed to a data file that must be parsed by a program to be meaningful.</flowPara></flowRoot>    <path
+       style="fill:#7878ff;fill-opacity:1;stroke:none"
+       d="m 45,4 4,0 0,4 -4,0 z"
+       id="path3358"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 46,7 2,0 0,-1 -2,0 z"
+       id="path3923"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold" />
+  </g>
+</svg>
