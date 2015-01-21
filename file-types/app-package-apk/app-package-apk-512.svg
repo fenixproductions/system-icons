@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="app-package-512.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-package\app-package-512.png"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-package-apk\app-package-512.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -2696,8 +2696,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="192.96704"
-     inkscape:cy="167.02741"
+     inkscape:cx="-62.345192"
+     inkscape:cy="325.34981"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -2791,183 +2791,103 @@
        d="m 70,-321 92,-46 0,-32 30,-31 c 0,0 112.16949,0 128,0 l 30,31 0,32 92,46 -59,0 -32,40 -190,0 -32,-40 z"
        style="fill:#deb887;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <g
-       inkscape:label="Layer 1"
-       id="layer1-1"
-       transform="matrix(0.69230769,0,0,0.69230769,-177.23077,1.43222)">
+       id="g4028"
+       transform="translate(256,-350.20475)">
       <g
-         id="g5159"
-         transform="translate(369.77778,-80.068764)">
-        <rect
-           style="opacity:0.48620689;fill:#8b4513;fill-opacity:0.50396824;fill-rule:nonzero;stroke:none;filter:url(#filter4528)"
-           id="rect3758"
-           width="254"
-           height="0.98642921"
-           x="129"
-           y="-320.5"
-           transform="matrix(1.4444444,0,0,1.4444444,-113.77778,84.597905)" />
-        <path
-           id="path3083"
-           d="m 33,-423 446,0 0,454 -446,0 z"
-           style="fill:url(#linearGradient5189);fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-        <path
-           sodipodi:nodetypes="ccccc"
-           inkscape:connector-curvature="0"
-           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 36,-392 440,0 0,420 -440,0 z"
-           id="path3863" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3880"
-           d="m 400,-423 76,0 0,24 -76,0 z"
-           style="fill:#ffffff;fill-opacity:1;stroke:none" />
-        <path
-           style="fill:url(#linearGradient5191);fill-opacity:1;stroke:none"
-           d="m 451,-423 24,0 0,23 -24,0 z"
-           id="rect3873"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3876"
-           d="m 426,-423 24,0 0,23 -24,0 z"
-           style="fill:url(#linearGradient5193);fill-opacity:1;stroke:none" />
-        <path
-           style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000c5;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-           sodipodi:nodetypes="ccccc"
-           inkscape:connector-curvature="0"
-           id="path3931"
-           d="m 448,-421 0,14 -16,0 0,-14 z" />
-        <path
-           style="fill:url(#linearGradient5195);fill-opacity:1;stroke:none"
-           d="m 401,-423 24,0 0,23 -24,0 z"
-           id="path3878"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 453,-403 5,-9 -5,-9 8,0 2,4 2,-4 8,0 -5,9 5,9 -8,0 -2,-4 -2,4 z"
-           id="path3917"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccccccccc"
-           style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0101;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold" />
-        <path
-           style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-           sodipodi:nodetypes="ccccccccccccc"
-           inkscape:connector-curvature="0"
-           id="path3915"
-           d="m 455,-404 5,-8 -5,-8 5,0 3,5 3,-5 5,0 -5,8 5,8 -5,0 -3,-5 -3,5 z" />
-        <path
-           style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000c5;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-           sodipodi:nodetypes="ccccc"
-           inkscape:connector-curvature="0"
-           id="path3937"
-           d="m 403,-409 20,0 0,6 -20,0 z" />
-        <path
-           d="m 404,-408 18,0 0,4 -18,0 z"
-           id="path3923"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc"
-           style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold" />
-        <path
-           d="m 447,-420 0,12 -14,0 0,-12 z"
-           id="path3933"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc"
-           style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold" />
-        <path
-           d="m 444,-417 0,14 -16,0 0,-14 z"
-           id="path3935"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc"
-           style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000c5;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold" />
-        <path
-           style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-           sodipodi:nodetypes="ccccc"
-           inkscape:connector-curvature="0"
-           id="path3927"
-           d="m 443,-416 0,12 -14,0 0,-12 z" />
-        <path
-           id="path6533"
-           d="m 37,-391 438,0 0,418 -438,0 z"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-        <path
-           style="fill:#a9a9a9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 38,-390 218,0 0,374 -218,0 z"
-           id="rect6535"
-           inkscape:connector-curvature="0" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect6572"
-           width="200"
-           height="336"
-           x="264"
-           y="-352"
-           rx="0"
-           ry="0" />
-        <flowRoot
-           xml:space="preserve"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-           id="flowRoot6574"
-           transform="translate(0,-23.010102)"><flowRegion
-             id="flowRegion6576"><use
-               x="0"
-               y="0"
-               xlink:href="#rect6572"
-               id="use6578"
-               width="512"
-               height="512" /></flowRegion><flowPara
-             id="flowPara6580">In computing, an executable file or executable program, or sometimes simply an executable, causes a computer &quot;to perform indicated tasks according to encoded instructions,&quot;[1] as opposed to a data file that must be parsed by a program to be meaningful. These instructions are traditionally machine code instructions for a physical CPU. However, in a more general sense, a file containing instructions (such as bytecode) for a software interpreter may also be considered executable; even a scripting language source file may therefore be considered executable in this sense.</flowPara></flowRoot>        <path
-           inkscape:connector-curvature="0"
-           id="path6613"
-           d="m 39,-389 216,0 0,372 -216,0 z"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           sodipodi:nodetypes="ccccc" />
+         id="g3997"
+         style="fill:#a4c639">
+        <use
+           id="use3999"
+           xlink:href="#b"
+           style="stroke:#ffffff;stroke-width:14.39999962"
+           x="0"
+           y="0"
+           width="1"
+           height="1" />
+        <use
+           id="use4001"
+           transform="scale(-1,1)"
+           xlink:href="#a"
+           x="0"
+           y="0"
+           width="1"
+           height="1" />
         <g
-           id="g6607"
-           transform="translate(-557,5)">
+           id="a"
+           style="stroke:#ffffff;stroke-width:7.19999981">
           <rect
-             style="fill:#f1511b;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="rect6588"
-             width="96"
-             height="96"
-             x="608"
-             y="-361.77777" />
+             id="rect4004"
+             x="14"
+             y="-86"
+             width="13"
+             height="86"
+             transform="matrix(0.87461971,0.48480962,-0.48480962,0.87461971,0,0)"
+             rx="6.5" />
           <rect
-             y="-361.77777"
-             x="704"
-             height="96"
-             width="96"
-             id="rect6590"
-             style="fill:#80cc28;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+             x="-143"
+             y="41"
+             width="48"
+             height="133"
+             rx="24"
+             id="c" />
+          <use
+             id="use4007"
+             xlink:href="#c"
+             x="85"
+             y="97"
+             width="1"
+             height="1" />
+        </g>
+        <g
+           id="b">
+          <ellipse
+             id="ellipse4010"
+             ry="84"
+             rx="91"
+             cy="41"
+             cx="0"
+             sodipodi:cx="0"
+             sodipodi:cy="41"
+             sodipodi:rx="91"
+             sodipodi:ry="84"
+             d="m 91,41 c 0,46.391919 -40.742088,84 -91,84 -50.257912,0 -91,-37.608081 -91,-84 0,-46.391919 40.742088,-84 91,-84 50.257912,0 91,37.608081 91,84 z" />
           <rect
-             style="fill:#00adef;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="rect6592"
-             width="96"
-             height="96"
-             x="608"
-             y="-265.77777" />
-          <rect
-             y="-265.77777"
-             x="704"
-             height="96"
-             width="96"
-             id="rect6594"
-             style="fill:#fbbc09;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+             id="rect4012"
+             x="-91"
+             y="20"
+             width="182"
+             height="182"
+             rx="22" />
         </g>
       </g>
-      <text
-         transform="translate(0,-448)"
-         sodipodi:linespacing="125%"
-         id="text6560-9"
-         y="603.63635"
-         x="-154.18182"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
-         xml:space="preserve"><tspan
-           id="tspan6562-8"
-           sodipodi:role="line"
-           x="-154.18182"
-           y="603.63635" /></text>
+      <g
+         id="g4014"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:7.19999981">
+        <path
+           id="path4016"
+           d="M -95,44.5 H 95"
+           inkscape:connector-curvature="0" />
+        <circle
+           id="circle4018"
+           r="4"
+           cx="-42"
+           cy="0"
+           sodipodi:cx="-42"
+           sodipodi:cy="0"
+           sodipodi:rx="4"
+           sodipodi:ry="4"
+           d="m -38,0 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z" />
+        <circle
+           id="circle4020"
+           r="4"
+           cx="42"
+           cy="0"
+           sodipodi:cx="42"
+           sodipodi:cy="0"
+           sodipodi:rx="4"
+           sodipodi:ry="4"
+           d="m 46,0 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z" />
+      </g>
     </g>
     <path
        style="opacity:0.39655172;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4538)"
@@ -3014,15 +2934,15 @@
        y="36.065865" />
     <text
        xml:space="preserve"
-       style="font-size:41.46448898px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="304"
-       y="-1.4023944"
+       style="font-size:77.13748169px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="296.5047"
+       y="4"
        id="text5199"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5201"
-         x="304"
-         y="-1.4023944">install</tspan></text>
+         x="296.5047"
+         y="4">apk</tspan></text>
     <path
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"

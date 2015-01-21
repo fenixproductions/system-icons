@@ -245,7 +245,7 @@ Position	Extension	Example File Type	%
 .sql	Structured Query Language Data File
 
 ## Executable Files
-.apk	Android Package File
+	.apk	Android Package File
 .app	Mac OS X Application
 .bat	DOS Batch File
 .cgi	Common Gateway Interface Script
@@ -322,9 +322,9 @@ Position	Extension	Example File Type	%
 .uue	Uuencoded File
 
 # Compressed Files
-.7z	7-Zip Compressed File
+	.7z	7-Zip Compressed File
 .cbr	Comic Book RAR Archive
-.deb	Debian Software Package
+	.deb	Debian Software Package
 .gz	Gnu Zipped Archive
 .pkg	Mac OS X Installer Package
 .rar	WinRAR Compressed Archive

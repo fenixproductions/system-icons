@@ -15,8 +15,8 @@
    id="svg3003"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="app-package-64.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-package\app-package-64.png"
+   sodipodi:docname="app-package-apk-64.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-package-apk\app-package-apk-64.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -10942,8 +10942,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.556349"
-     inkscape:cx="44.556209"
-     inkscape:cy="20.279443"
+     inkscape:cx="21.534513"
+     inkscape:cy="35.617987"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -11035,122 +11035,103 @@
        d="m 16,19 8,-4 0,-3 3,-3 c 0,0 8.417432,0 10,0 l 3,3 0,3 8,4 -5,0 -2,4 -18,0 -2,-4 z"
        style="fill:#deb887;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <g
-       inkscape:label="Layer 1"
-       id="layer1-4"
-       transform="matrix(0.46428571,0,0,0.46428571,17.142857,12.136365)">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect3021"
-         d="M 4,4 60,4 60,56 4,56 z"
-         style="fill:#0000d6;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect3873"
-         d="m 55,4 4,0 0,4 -4,0 z"
-         style="fill:#ff0000;fill-opacity:1;stroke:none" />
-      <path
-         style="fill:#7878ff;fill-opacity:1;stroke:none"
-         d="m 50,4 4,0 0,4 -4,0 z"
-         id="path3876"
-         inkscape:connector-curvature="0" />
-      <path
-         d="M 56,6.5 56.5,6 56,5.5 56.5,5 57,5.5 57.5,5 58,5.5 57.5,6 58,6.5 57.5,7 57,6.5 56.5,7 z"
-         id="path3915"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccc"
-         style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold" />
-      <path
-         style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path3935"
-         d="m 53,5 0,2 -2,0 0,-2 z" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text6560-7"
-         y="73.507759"
-         x="54.890377"
-         style="font-size:1.19893098px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
-         xml:space="preserve"><tspan
-           id="tspan6562-8"
-           sodipodi:role="line"
-           x="54.890377"
-           y="73.507759" /></text>
-      <path
-         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 5,8 59,8 59,55 5,55 z"
-         id="path3278"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3863"
-         d="M 6,9 58,9 58,54 6,54 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+       id="g7433"
+       transform="matrix(0.08506615,0,0,0.08506615,32,17.284942)">
       <g
-         transform="matrix(0.10416667,0,0,0.10416667,-55.333334,51.666667)"
-         id="g6607">
-        <rect
-           y="-361.60004"
-           x="608"
-           height="96"
-           width="96"
-           id="rect6588"
-           style="fill:#f1511b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-        <rect
-           style="fill:#80cc28;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect6590"
-           width="96"
-           height="96"
-           x="704"
-           y="-361.60004" />
-        <rect
-           y="-265.60001"
-           x="608"
-           height="96"
-           width="96"
-           id="rect6592"
-           style="fill:#00adef;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-        <rect
-           style="fill:#fbbc09;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect6594"
-           width="96"
-           height="96"
-           x="704"
-           y="-265.60001" />
+         id="g7402"
+         style="fill:#a4c639">
+        <use
+           id="use7404"
+           xlink:href="#b"
+           style="stroke:#ffffff;stroke-width:14.39999962"
+           x="0"
+           y="0"
+           width="1"
+           height="1" />
+        <use
+           id="use7406"
+           transform="scale(-1,1)"
+           xlink:href="#a"
+           x="0"
+           y="0"
+           width="1"
+           height="1" />
+        <g
+           id="a"
+           style="stroke:#ffffff;stroke-width:7.19999981">
+          <rect
+             id="rect7409"
+             x="14"
+             y="-86"
+             width="13"
+             height="86"
+             transform="matrix(0.87461971,0.48480962,-0.48480962,0.87461971,0,0)"
+             rx="6.5" />
+          <rect
+             x="-143"
+             y="41"
+             width="48"
+             height="133"
+             rx="24"
+             id="c" />
+          <use
+             id="use7412"
+             xlink:href="#c"
+             x="85"
+             y="97"
+             width="1"
+             height="1" />
+        </g>
+        <g
+           id="b">
+          <ellipse
+             id="ellipse7415"
+             ry="84"
+             rx="91"
+             cy="41"
+             cx="0"
+             sodipodi:cx="0"
+             sodipodi:cy="41"
+             sodipodi:rx="91"
+             sodipodi:ry="84"
+             d="m 91,41 c 0,46.391919 -40.742088,84 -91,84 -50.257912,0 -91,-37.608081 -91,-84 0,-46.391919 40.742088,-84 91,-84 50.257912,0 91,37.608081 91,84 z" />
+          <rect
+             id="rect7417"
+             x="-91"
+             y="20"
+             width="182"
+             height="182"
+             rx="22" />
+        </g>
       </g>
-      <rect
-         ry="0"
-         rx="0"
-         y="16"
-         x="30"
-         height="28"
-         width="26"
-         id="rect3348"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <flowRoot
-         id="flowRoot3350"
-         style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-         xml:space="preserve"
-         transform="translate(0,-4)"><flowRegion
-           id="flowRegion3352"><use
-             height="64"
-             width="64"
-             id="use3354"
-             xlink:href="#rect3348"
-             y="0"
-             x="0" /></flowRegion><flowPara
-           id="flowPara3356">In computing, an executable file or executable program, or sometimes simply an executable, causes a computer &quot;to perform indicated tasks according to encoded instructions,&quot; as opposed to a data file that must be parsed by a program to be meaningful.</flowPara></flowRoot>      <path
-         inkscape:connector-curvature="0"
-         id="path3358"
-         d="m 45,4 4,0 0,4 -4,0 z"
-         style="fill:#7878ff;fill-opacity:1;stroke:none" />
-      <path
-         style="font-size:22.3519783px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path3923"
-         d="m 46,7 2,0 0,-1 -2,0 z" />
+      <g
+         id="g7419"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:7.19999981">
+        <path
+           id="path7421"
+           d="M -95,44.5 H 95"
+           inkscape:connector-curvature="0" />
+        <circle
+           id="circle7423"
+           r="4"
+           cx="-42"
+           cy="0"
+           sodipodi:cx="-42"
+           sodipodi:cy="0"
+           sodipodi:rx="4"
+           sodipodi:ry="4"
+           d="m -38,0 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z" />
+        <circle
+           id="circle7425"
+           r="4"
+           cx="42"
+           cy="0"
+           sodipodi:cx="42"
+           sodipodi:cy="0"
+           sodipodi:rx="4"
+           sodipodi:ry="4"
+           d="m 46,0 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z" />
+      </g>
     </g>
     <path
        sodipodi:nodetypes="ccccccccc"
@@ -11220,14 +11201,14 @@
     <text
        xml:space="preserve"
        style="font-size:10.73764896px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="45.760235"
-       y="49.848259"
+       x="40.488403"
+       y="48.776165"
        id="text2997"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2999"
-         x="45.760235"
-         y="49.848259">install</tspan></text>
+         x="40.488403"
+         y="48.776165">apk</tspan></text>
     <rect
        style="fill:#8b4513;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect8115"
