@@ -16,24 +16,6 @@ bold
 courier 1.6
 
 ------------------------
-# extensions TO DO
-## archives
-	archive
-	zip
-	rar
-	7z
-
-## images
-	image
-	png
-	jpg
-	gif
-
-# images other
-	svg
-	ai
-	ps
-
 # 101 Most Popular File Types Sent Through MailBigFile
 (http://www.mailbigfile.com/101-most-popular-file-types/)
 Position	Extension	Example File Type	%
@@ -45,12 +27,12 @@ Position	Extension	Example File Type	%
 -6	exe	Executable file	3.38
 -7	wmv	Windows Media Video	3.18
 -8	doc	Microsoft Word Document	2.37
-9	avi	Audio Video Interleave	2.29
+-9	avi	Audio Video Interleave	2.29
 -10	ppt	Microsoft PowerPoint Presentation	2.03
-11	mpg	MPEG-1 Video	1.88
-12	tif	Tagged Image File Format	1.85
+-11	mpg	MPEG-1 Video	1.88
+-12	tif	Tagged Image File Format	1.85
 -13	wav	Waveform Audio Format	1.39
-14	mov	QuickTime	1.38
+-14	mov	QuickTime	1.38
 -15	psd	Photoshop Document	1.35
 16	wma	Windows Media Audio	1.25
 17	sitx	StuffIt X	1.06
@@ -60,7 +42,7 @@ Position	Extension	Example File Type	%
 -21	ai	Adobe Illustrator document	0.52
 -22	xls	Microsoft Excel spreadsheet	0.49
 23	mp4	MPEG-4 Part 14	0.45
-24	txt	Plain text file	0.38
+-24	txt	Plain text file	0.38
 25	m4a	MPEG-4 Part 14	0.34
 26	rmvb	RealMedia Variable Bitrate	0.32
 27	bmp	Windows bitmap	0.31
@@ -150,8 +132,8 @@ Position	Extension	Example File Type	%
 .odt	OpenDocument Text Document
 .pages	Pages Document
 .rtf	Rich Text Format File
-.tex	LaTeX Source Document
-.txt	Plain Text File
+	.tex	LaTeX Source Document
+	.txt	Plain Text File
 .wpd	WordPerfect Document
 .wps	Microsoft Works Word Processor Document
 
@@ -327,7 +309,7 @@ Position	Extension	Example File Type	%
 	.deb	Debian Software Package
 .gz	Gnu Zipped Archive
 .pkg	Mac OS X Installer Package
-.rar	WinRAR Compressed Archive
+	.rar	WinRAR Compressed Archive
 .rpm	Red Hat Package Manager File
 .sitx	StuffIt X Archive
 .tar.gz	Compressed Tarball File
