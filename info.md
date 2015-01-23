@@ -19,30 +19,8 @@ courier 1.6
 # 101 Most Popular File Types Sent Through MailBigFile
 (http://www.mailbigfile.com/101-most-popular-file-types/)
 Position	Extension	Example File Type	%
--1	zip	Zip archive	28.12
--2	pdf	PDF Document	12.79
--3	mp3	MP3 Audio File	10.38
--4	jpg	JPEG Image	8.04
--5	rar	RAR Archive	7.01
--6	exe	Executable file	3.38
--7	wmv	Windows Media Video	3.18
--8	doc	Microsoft Word Document	2.37
--9	avi	Audio Video Interleave	2.29
--10	ppt	Microsoft PowerPoint Presentation	2.03
--11	mpg	MPEG-1 Video	1.88
--12	tif	Tagged Image File Format	1.85
--13	wav	Waveform Audio Format	1.39
--14	mov	QuickTime	1.38
--15	psd	Photoshop Document	1.35
-16	wma	Windows Media Audio	1.25
-17	sitx	StuffIt X	1.06
-18	sit	StuffIt	0.87
-19	eps	Encapsulated PostScript	0.83
-20	cdr	Corel Draw Vector or Raw Audio CD	0.62
--21	ai	Adobe Illustrator document	0.52
--22	xls	Microsoft Excel spreadsheet	0.49
+?17	sitx	StuffIt X	1.06
 23	mp4	MPEG-4 Part 14	0.45
--24	txt	Plain text file	0.38
 25	m4a	MPEG-4 Part 14	0.34
 26	rmvb	RealMedia Variable Bitrate	0.32
 27	bmp	Windows bitmap	0.31
@@ -50,7 +28,6 @@ Position	Extension	Example File Type	%
 29	aif	Audio Interchange File	0.28
 30	pub	Microsoft Publisher	0.22
 31	dwg	AutoCAD DWG	0.22
--32	gif	GIF (Graphics Interchange Format) Image	0.22
 33	qbb	QuickBooks backup file	0.21
 34	mpeg	MPEG 1 System Stream	0.17
 35	indd	InDesign document	0.17
@@ -62,7 +39,6 @@ Position	Extension	Example File Type	%
 41	mdb	Microsoft Access	0.12
 42	chm	Microsoft Compressed HTML Help	0.09
 43	jar	Java ARchive	0.09
-+44	htm	Hypertext Markup Language (HTML)	0.09
 45	dvf	Sony Compressed Voice File	0.09
 46	dss	DCC Active Designer File	0.08
 47	dmg	Disk image	0.08
@@ -71,21 +47,18 @@ Position	Extension	Example File Type	%
 50	wpd	WordPerfect Document	0.07
 51	cda	CD Audio Track Shortcut	0.07
 52	m4b	MPEG-4 Part 14	0.07
-53	7z	7z archive	0.06
 54	gz	Gzip archive	0.06
 55	fla	Adobe Flash	0.06
 56	qxd	QuarkXpress Document	0.06
 57	rtf	Rich Text Format	0.06
 58	aiff	Audio Interchange File Format	0.06
 59	msi	Windows Installer	0.06
--60	jpeg	JPEG image	0.06
 61	3gp	Third Generation Partnership Project	0.05
 62	cdl	CADKEY Advanced Design Language (CADL)	0.05
 63	vob	DVD-Video Object	0.05
 64	ace	ACE archive	0.05
 65	m4p	Protected AAC File	0.04
 66	divx	DivX video	0.04
--67	html	Hypertext Markup Language (HTML) document	0.04
 68	pst	Microsoft Personal STorage	0.03
 69	cab	Microsoft Windows compressed archive	0.03
 70	ttf	TrueType font	0.03
@@ -125,16 +98,7 @@ Position	Extension	Example File Type	%
 (http://www.fileinfo.com/filetypes/common)
 
 ## Text Files
-	.doc	Microsoft Word Document
-	.docx	Microsoft Word Open XML Document
-	.log	Log File
 ?.msg	Outlook Mail Message
-.odt	OpenDocument Text Document
-.pages	Pages Document
-.rtf	Rich Text Format File
-	.tex	LaTeX Source Document
-	.txt	Plain Text File
-.wpd	WordPerfect Document
 .wps	Microsoft Works Word Processor Document
 
 ## Data Files
@@ -145,14 +109,11 @@ Position	Extension	Example File Type	%
 .key	Keynote Presentation
 .keychain	Mac OS X Keychain File
 .pps	PowerPoint Slide Show
-	.ppt	PowerPoint Presentation
-	.pptx	PowerPoint Open XML Presentation
 .sdf	Standard Data File
 .tar	Consolidated Unix File Archive
 .tax2012	TurboTax 2012 Tax Return
 .tax2014	TurboTax 2014 Tax Return
 .vcf	vCard File
-	.xml	XML File
 
 ## Audio Files
 .aif	Audio Interchange File Format
@@ -160,27 +121,21 @@ Position	Extension	Example File Type	%
 .m3u	Media Playlist File
 .m4a	MPEG-4 Audio File
 .mid	MIDI File
-	.mp3	MP3 Audio File
 .mpa	MPEG-2 Audio File
 .ra	Real Audio File
-.wav	WAVE Audio File
-.wma	Windows Media Audio File
+
 ## Video Files
 .3g2	3GPP2 Multimedia File
 .3gp	3GPP Multimedia File
 .asf	Advanced Systems Format File
 .asx	Microsoft ASF Redirector File
-.avi	Audio Video Interleave File
 .flv	Flash Video File
 .m4v	iTunes Video File
-.mov	Apple QuickTime Movie
 .mp4	MPEG-4 Video File
-.mpg	MPEG Video File
 .rm	Real Media File
 .srt	SubRip Subtitle File
 .swf	Shockwave Flash Movie
 .vob	DVD Video Object File
-.wmv	Windows Media Video File
 
 ## 3D Image Files
 .3dm	Rhino 3D Model
@@ -191,32 +146,21 @@ Position	Extension	Example File Type	%
 ## Raster Image Files
 .bmp	Bitmap Image File
 .dds	DirectDraw Surface
-	.gif	Graphical Interchange Format File
-	.jpg	JPEG Image
-	.png	Portable Network Graphic
-	.psd	Adobe Photoshop Document
 .pspimage	PaintShop Pro Image
 .tga	Targa Graphic
 .thm	Thumbnail Image File
-.tif	Tagged Image File
-.tiff	Tagged Image File Format
+?.tif	Tagged Image File
 .yuv	YUV Encoded Image File
 
 ## Vector Image Files
-	.ai	Adobe Illustrator File
-.eps	Encapsulated PostScript File
 .ps	PostScript File
-	.svg	Scalable Vector Graphics File
 
 ## Page Layout Files
 .indd	Adobe InDesign Document
 .pct	Picture File
-	.pdf	Portable Document Format File
 
 ## Spreadsheet Files
 .xlr	Works Spreadsheet
-	.xls	Excel Spreadsheet
-	.xlsx	Microsoft Excel Open XML Spreadsheet
 
 ## Database Files
 .accdb	Access 2007 Database File
@@ -227,7 +171,6 @@ Position	Extension	Example File Type	%
 .sql	Structured Query Language Data File
 
 ## Executable Files
-	.apk	Android Package File
 .app	Mac OS X Application
 .bat	DOS Batch File
 .cgi	Common Gateway Interface Script
@@ -236,7 +179,6 @@ Position	Extension	Example File Type	%
 .gadget	Windows Gadget
 .jar	Java Archive File
 .pif	Program Information File
-	.vb	VBScript File
 .wsf	Windows Script File
 
 ## Game Files
@@ -261,14 +203,11 @@ Position	Extension	Example File Type	%
 .cer	Internet Security Certificate
 .cfm	ColdFusion Markup File
 .csr	Certificate Signing Request File
-	.css	Cascading Style Sheet
-.htm	Hypertext Markup Language File
-	.html	Hypertext Markup Language File
-	.js	JavaScript File
+?.htm	Hypertext Markup Language File
 .jsp	Java Server Page
 .php	PHP Source Code File
 .rss	Rich Site Summary
-.xhtml	Extensible Hypertext Markup Language File
+?.xhtml	Extensible Hypertext Markup Language File
 
 # Plugin Files
 .crx	Chrome Extension
@@ -304,17 +243,13 @@ Position	Extension	Example File Type	%
 .uue	Uuencoded File
 
 # Compressed Files
-	.7z	7-Zip Compressed File
 .cbr	Comic Book RAR Archive
-	.deb	Debian Software Package
 .gz	Gnu Zipped Archive
 .pkg	Mac OS X Installer Package
-	.rar	WinRAR Compressed Archive
 .rpm	Red Hat Package Manager File
-.sitx	StuffIt X Archive
+?.sitx	StuffIt X Archive
 .tar.gz	Compressed Tarball File
-.zip	Zipped File
-.zipx	Extended Zip File
+?.zipx	Extended Zip File
 
 # Disk Image Files
 .bin	Binary Disc Image
@@ -329,7 +264,6 @@ Position	Extension	Example File Type	%
 .c	C/C++ Source Code File
 .class	Java Class File
 .cpp	C++ Source Code File
-.cs	Visual C# Source Code File
 .dtd	Document Type Definition File
 .fla	Adobe Flash Animation
 .h	C/C++/Objective-C Header File
