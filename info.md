@@ -19,21 +19,11 @@ courier 1.6
 # 101 Most Popular File Types Sent Through MailBigFile
 (http://www.mailbigfile.com/101-most-popular-file-types/)
 Position	Extension	Example File Type	%
-?17	sitx	StuffIt X	1.06
-23	mp4	MPEG-4 Part 14	0.45
-25	m4a	MPEG-4 Part 14	0.34
-26	rmvb	RealMedia Variable Bitrate	0.32
-27	bmp	Windows bitmap	0.31
-28	pps	PowerPoint Show	0.3
-29	aif	Audio Interchange File	0.28
-30	pub	Microsoft Publisher	0.22
-31	dwg	AutoCAD DWG	0.22
 33	qbb	QuickBooks backup file	0.21
 34	mpeg	MPEG 1 System Stream	0.17
 35	indd	InDesign document	0.17
 36	swf	SWF vector graphics	0.15
 37	asf	Advanced Systems Format	0.15
--38	png	Portable Network Graphics	0.14
 39	dat	Data	0.13
 40	rm	RealMedia	0.12
 41	mdb	Microsoft Access	0.12
@@ -71,7 +61,6 @@ Position	Extension	Example File Type	%
 77	mswmm	Windows Movie Maker Project File	0.03
 78	ifo	DVD Info File	0.03
 79	tgz	Archive; WinZipNT - TAR - GNUzip	0.03
--80	log	Log file	0.03
 81	dll	Dynamic-link library	0.02
 82	mcd	MathCad file; MathCad	0.02
 83	ss	Bitmap graphics; Splash	0.02

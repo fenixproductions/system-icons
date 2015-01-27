@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg3003"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="app-office-pub-16.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-office-pub\app-office-pub-16.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3005">
+    <linearGradient
+       id="linearGradient3810">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3812" />
+      <stop
+         style="stop-color:#e2f1e2;stop-opacity:1;"
+         offset="1"
+         id="stop3814" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3810"
+       id="linearGradient3261"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0430143,0,0,0.0430143,-3.0571387,64.274907)"
+       x1="165.29134"
+       y1="-290.77429"
+       x2="363.38715"
+       y2="-84.065628" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3985-7"
+       id="linearGradient3590"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06069178,0,0,0.05202152,-14.174828,65.992692)"
+       x1="250.03102"
+       y1="-326.64737"
+       x2="480.70477"
+       y2="-57.527962" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3810-6-1"
+       id="linearGradient4566"
+       x1="2.1666667"
+       y1="49"
+       x2="13.833333"
+       y2="63"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2,0,0,1,-1.6,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3788-3-0"
+       id="linearGradient4768"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.03105688,0,0,0.03105688,1.9038628,60.605731)"
+       x1="67.493492"
+       y1="-277.09579"
+       x2="325.08536"
+       y2="-19.503923" />
+    <linearGradient
+       id="linearGradient3810-6-1">
+      <stop
+         id="stop3812-85-2"
+         offset="0"
+         style="stop-color:#cdf2ee;stop-opacity:1;" />
+      <stop
+         id="stop3814-7-5"
+         offset="1"
+         style="stop-color:#86ded4;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3788-3-0">
+      <stop
+         style="stop-color:#04b39d;stop-opacity:1;"
+         offset="0"
+         id="stop3790-2-9" />
+      <stop
+         style="stop-color:#055d5d;stop-opacity:1;"
+         offset="1"
+         id="stop3792-21-4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3985-7">
+      <stop
+         id="stop3987-8"
+         offset="0"
+         style="stop-color:#00b39f;stop-opacity:1;" />
+      <stop
+         id="stop3989-3"
+         offset="1"
+         style="stop-color:#006565;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.556349"
+     inkscape:cx="-1.8898064"
+     inkscape:cy="17.463934"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
+     inkscape:window-y="532"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1,3"
+       id="guide3013" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="184,496"
+       id="guide3015" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="5,1"
+       id="guide3017" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="496,248"
+       id="guide3019" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="56,96"
+       id="guide3104" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="64,56"
+       id="guide3106" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="15,3"
+       id="guide3018" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="7,15"
+       id="guide3020" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3008">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,-48)">
+    <path
+       style="fill:url(#linearGradient3590);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 15,49 1,49 1,63 15,63 z"
+       id="rect3017"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:url(#linearGradient3261);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 12.439743,51.557136 -8.9141679,0 0,8.914169 8.9141679,0 z"
+       id="path4125"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3808"
+       d="M 14,50 2,50 2,62 14,62 z"
+       style="fill:url(#linearGradient4566);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="font-size:414.17016602000001000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4768);fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+       d="m 4,51.669422 0,1.68595 1.6528924,0 0,6.975206 1.950413,0 0,-2.975207 0.9256197,0 c 1.0497709,4e-6 1.9176019,-0.254365 2.5454549,-0.793388 0.627838,-0.539016 0.925612,-1.243576 0.92562,-2.115702 -8e-6,-1.845176 -1.084355,-2.77685 -3.2727278,-2.776859 l -2.61157,0 -0.4628098,0 -1.6528924,0 z m 3.6033054,1.520662 0.7603305,0 c 1.0416962,6e-6 1.586772,0.43001 1.5867768,1.322313 -4.8e-6,0.912502 -0.5450806,1.355376 -1.5867768,1.355371 l -0.7603305,0 0,-2.677684 z"
+       id="path3994"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4915"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Sans Bold"
+       transform="matrix(0.4212641,0,0,0.4212641,86.15639,109.07124)"><flowRegion
+         id="flowRegion4917"><rect
+           id="rect4919"
+           width="121.45455"
+           height="124.36364"
+           x="-216.00002"
+           y="94.545441" /></flowRegion><flowPara
+         id="flowPara4921" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6703"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       transform="translate(18,8)"><flowRegion
+         id="flowRegion6705"><rect
+           id="rect6707"
+           width="29.891333"
+           height="17.034845"
+           x="17.099129"
+           y="18.038059"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" /></flowRegion><flowPara
+         id="flowPara6709">Microsoft Publisher is an entry-level desktop publishing application from Microsoft, differing from Microsoft Word in that the emphasis is placed on page layout and design rather than text composition and proofing.Publisher is included in s</flowPara><flowPara
+         id="flowPara6711" /><flowPara
+         id="flowPara6713" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6715"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Sans Bold"
+       transform="translate(18,8)"><flowRegion
+         id="flowRegion6717"><rect
+           id="rect6719"
+           width="16.777716"
+           height="21.598898"
+           x="-23.077394"
+           y="20.41651"
+           style="fill:#000000" /></flowRegion><flowPara
+         id="flowPara6721">sPublisher is included in higher-end editions of Microsoft Office, reflecting Microsoft's emphasis on the application as an easy-to-use and less expensive alternative to the &quot;heavyweights&quot; with a focus on the small business market where firms do not have dedicated design professionals available to make marketing materials and other documents.[1][2] However, it has a relatively small share of the desktop publishing market, which is dominated by Adobe InDesign and QuarkXPress.[1</flowPara></flowRoot>  </g>
+</svg>
