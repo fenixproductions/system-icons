@@ -21,14 +21,11 @@ courier 1.6
 Position	Extension	Example File Type	%
 33	qbb	QuickBooks backup file	0.21
 34	mpeg	MPEG 1 System Stream	0.17
-35	indd	InDesign document	0.17
 36	swf	SWF vector graphics	0.15
 37	asf	Advanced Systems Format	0.15
 39	dat	Data	0.13
-40	rm	RealMedia	0.12
-41	mdb	Microsoft Access	0.12
+?40	rm	RealMedia	0.12
 42	chm	Microsoft Compressed HTML Help	0.09
-43	jar	Java ARchive	0.09
 45	dvf	Sony Compressed Voice File	0.09
 46	dss	DCC Active Designer File	0.08
 47	dmg	Disk image	0.08
@@ -40,9 +37,7 @@ Position	Extension	Example File Type	%
 54	gz	Gzip archive	0.06
 55	fla	Adobe Flash	0.06
 56	qxd	QuarkXpress Document	0.06
-57	rtf	Rich Text Format	0.06
 58	aiff	Audio Interchange File Format	0.06
-59	msi	Windows Installer	0.06
 61	3gp	Third Generation Partnership Project	0.05
 62	cdl	CADKEY Advanced Design Language (CADL)	0.05
 63	vob	DVD-Video Object	0.05
@@ -91,13 +86,11 @@ Position	Extension	Example File Type	%
 .wps	Microsoft Works Word Processor Document
 
 ## Data Files
-.csv	Comma Separated Values File
 .dat	Data File
 .gbr	Gerber File
 .ged	GEDCOM Genealogy Data File
 .key	Keynote Presentation
 .keychain	Mac OS X Keychain File
-.pps	PowerPoint Slide Show
 .sdf	Standard Data File
 .tar	Consolidated Unix File Archive
 .tax2012	TurboTax 2012 Tax Return
@@ -133,19 +126,16 @@ Position	Extension	Example File Type	%
 .obj	Wavefront 3D Object File
 
 ## Raster Image Files
-.bmp	Bitmap Image File
 .dds	DirectDraw Surface
 .pspimage	PaintShop Pro Image
 .tga	Targa Graphic
 .thm	Thumbnail Image File
-?.tif	Tagged Image File
 .yuv	YUV Encoded Image File
 
 ## Vector Image Files
 .ps	PostScript File
 
 ## Page Layout Files
-.indd	Adobe InDesign Document
 .pct	Picture File
 
 ## Spreadsheet Files
@@ -155,7 +145,6 @@ Position	Extension	Example File Type	%
 .accdb	Access 2007 Database File
 .db	Database File
 .dbf	Database File
-.mdb	Microsoft Access Database
 .pdb	Program Database
 .sql	Structured Query Language Data File
 
@@ -166,7 +155,6 @@ Position	Extension	Example File Type	%
 .com	DOS Command File
 .exe	Windows Executable File
 .gadget	Windows Gadget
-.jar	Java Archive File
 .pif	Program Information File
 .wsf	Windows Script File
 
@@ -178,7 +166,6 @@ Position	Extension	Example File Type	%
 .sav	Saved Game
 
 # CAD Files
-.dwg	AutoCAD Drawing Database File
 .dxf	Drawing Exchange Format File
 
 # GIS Files
@@ -192,7 +179,6 @@ Position	Extension	Example File Type	%
 .cer	Internet Security Certificate
 .cfm	ColdFusion Markup File
 .csr	Certificate Signing Request File
-?.htm	Hypertext Markup Language File
 .jsp	Java Server Page
 .php	PHP Source Code File
 .rss	Rich Site Summary
@@ -234,8 +220,6 @@ Position	Extension	Example File Type	%
 # Compressed Files
 .cbr	Comic Book RAR Archive
 .gz	Gnu Zipped Archive
-.pkg	Mac OS X Installer Package
-.rpm	Red Hat Package Manager File
 ?.sitx	StuffIt X Archive
 .tar.gz	Compressed Tarball File
 ?.zipx	Extended Zip File
@@ -250,9 +234,7 @@ Position	Extension	Example File Type	%
 .vcd	Virtual CD
 
 # Developer Files
-.c	C/C++ Source Code File
 .class	Java Class File
-.cpp	C++ Source Code File
 .dtd	Document Type Definition File
 .fla	Adobe Flash Animation
 .h	C/C++/Objective-C Header File
@@ -274,6 +256,5 @@ Position	Extension	Example File Type	%
 # Misc Files
 .crdownload	Chrome Partially Downloaded File
 .ics	Calendar File
-.msi	Windows Installer Package
 .part	Partially Downloaded File
 .torrent	BitTorrent File
