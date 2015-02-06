@@ -149,7 +149,6 @@ Position	Extension	Example File Type	%
 .sql	Structured Query Language Data File
 
 ## Executable Files
-.app	Mac OS X Application
 .bat	DOS Batch File
 .cgi	Common Gateway Interface Script
 .com	DOS Command File
