@@ -20,10 +20,9 @@ courier 1.6
 (http://www.mailbigfile.com/101-most-popular-file-types/)
 Position	Extension	Example File Type	%
 33	qbb	QuickBooks backup file	0.21
-34	mpeg	MPEG 1 System Stream	0.17
+?34	mpeg	MPEG 1 System Stream	0.17
 36	swf	SWF vector graphics	0.15
 37	asf	Advanced Systems Format	0.15
-39	dat	Data	0.13
 ?40	rm	RealMedia	0.12
 42	chm	Microsoft Compressed HTML Help	0.09
 45	dvf	Sony Compressed Voice File	0.09
@@ -82,13 +81,9 @@ Position	Extension	Example File Type	%
 (http://www.fileinfo.com/filetypes/common)
 
 ## Text Files
-?.msg	Outlook Mail Message
 .wps	Microsoft Works Word Processor Document
 
 ## Data Files
-.dat	Data File
-.gbr	Gerber File
-.ged	GEDCOM Genealogy Data File
 .key	Keynote Presentation
 .keychain	Mac OS X Keychain File
 .sdf	Standard Data File
@@ -100,7 +95,6 @@ Position	Extension	Example File Type	%
 ## Audio Files
 .aif	Audio Interchange File Format
 .iff	Interchange File Format
-.m3u	Media Playlist File
 .m4a	MPEG-4 Audio File
 .mid	MIDI File
 .mpa	MPEG-2 Audio File
@@ -234,7 +228,6 @@ Position	Extension	Example File Type	%
 
 # Developer Files
 .class	Java Class File
-.dtd	Document Type Definition File
 .fla	Adobe Flash Animation
 .h	C/C++/Objective-C Header File
 .java	Java Source Code File

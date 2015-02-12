@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg3003"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="app-dtd-512.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-dtd\app-dtd-512.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3005">
+    <clipPath
+       id="clipPath3008"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3010"
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z" />
+    </clipPath>
+    <linearGradient
+       gradientTransform="matrix(1,0,0,-1,-110.8195,852.7348)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#SVGID_1_"
+       id="linearGradient3057"
+       y2="108.459"
+       x2="464.315"
+       y1="532.26703"
+       x1="464.315" />
+    <linearGradient
+       gradientTransform="matrix(1,0,0,-1,0.14,777.638)"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_1_"
+       y2="108.459"
+       x2="464.315"
+       y1="532.26703"
+       x1="464.315">
+      <stop
+         offset="0.1497"
+         style="stop-color:#2a4f84;stop-opacity:1"
+         id="stop13" />
+      <stop
+         offset="0.38839999"
+         style="stop-color:#294e82;stop-opacity:1"
+         id="stop15" />
+      <stop
+         offset="1"
+         style="stop-color:#172e4e;stop-opacity:1"
+         id="stop17" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.375"
+     inkscape:cx="99.537802"
+     inkscape:cy="-242.54545"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
+     inkscape:window-y="532"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="16,376"
+       id="guide3013" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="184,496"
+       id="guide3015" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="336,16"
+       id="guide3017" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="496,248"
+       id="guide3019" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="280,112"
+       id="guide8820" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="592,144"
+       id="guide8822" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3008">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,448)">
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3021"
+       width="384"
+       height="480"
+       x="64"
+       y="-432" />
+    <rect
+       y="-429.94785"
+       x="66.090912"
+       height="476.12967"
+       width="379.93225"
+       id="rect3791"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 80 40 L 80 480 L 272 480 L 272 360 L 432 360 L 432 40 L 80 40 z "
+       transform="translate(0,-448)"
+       id="rect3652" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.56158447px;line-height:125%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#1e90ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="280.43246"
+       y="10.993396"
+       id="text23785"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan23787"
+         x="280.43246"
+         y="10.993396">dtd</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot23915"><flowRegion
+         id="flowRegion23917"><use
+           x="0"
+           y="0"
+           xlink:href="#rect3652"
+           id="use23919"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara23921">&lt;!--===== Imported Names =====--&gt;</flowPara><flowPara
+         id="flowPara23923">&lt;!-- Feature Switch for frameset documents --&gt;</flowPara><flowPara
+         id="flowPara23925">&lt;!ENTITY % HTML.Frameset &quot;IGNORE&quot;&gt;</flowPara><flowPara
+         id="flowPara23929">&lt;!ENTITY % ContentType &quot;CDATA&quot; --&gt;</flowPara><flowPara
+         id="flowPara23935">&lt;!ENTITY % ContentTypes &quot;CDATA&quot; --&gt;</flowPara><flowPara
+         id="flowPara23944">&lt;!ENTITY % LinkTypes &quot;CDATA&quot; --&gt;</flowPara><flowPara
+         id="flowPara23946">&lt;!ENTITY % Datetime &quot;CDATA&quot; --&gt;</flowPara><flowPara
+         id="flowPara23948">&lt;!ENTITY % Script &quot;CDATA&quot; --&gt;</flowPara><flowPara
+         id="flowPara23950">&lt;!ENTITY % StyleSheet &quot;CDATA&quot; --&gt;</flowPara><flowPara
+         id="flowPara23952">&lt;!ENTITY % head.misc &quot;SCRIPT|STYLE|META|LINK|OBJECT&quot; --&gt;</flowPara><flowPara
+         id="flowPara23954">&lt;!ENTITY % heading &quot;H1|H2|H3|H4|H5|H6&quot;&gt;</flowPara><flowPara
+         id="flowPara23956">&lt;!ENTITY % list &quot;UL | OL&quot;&gt;</flowPara><flowPara
+         id="flowPara23958">&lt;!ENTITY % preformatted &quot;PRE&quot;&gt;</flowPara><flowPara
+         id="flowPara23960" /><flowPara
+         id="flowPara23970">&lt;!--===== Generic Attributes ======--&gt;</flowPara><flowPara
+         id="flowPara23983">&lt;!ENTITY % coreattrs  &quot;id ID #IMPLIED</flowPara><flowPara
+         id="flowPara23985">  -- document-wide unique id</flowPara><flowPara
+         id="flowPara23987">  -- class CDATA #IMPLIED</flowPara><flowPara
+         id="flowPara23989">  -- space-separated list of classes</flowPara><flowPara
+         id="flowPara23991">  -- style %StyleSheet; #IMPLIED</flowPara><flowPara
+         id="flowPara23993">  -- associated style info</flowPara><flowPara
+         id="flowPara23995">  -- title %Text; #IMPLIED</flowPara><flowPara
+         id="flowPara23997">  -- advisory title --&quot; &gt;</flowPara><flowPara
+         id="flowPara23999">&lt;!ENTITY % i18n  &quot;lang %LanguageCode; #IMPLIED</flowPara><flowPara
+         id="flowPara24001">  -- language code</flowPara><flowPara
+         id="flowPara24003">  -- dir (ltr|rtl) #IMPLIED</flowPara><flowPara
+         id="flowPara24005">  -- direction for weak/neutral text --&quot; &gt;</flowPara><flowPara
+         id="flowPara24007">&lt;!ENTITY % events &quot;onclick %Script; #IMPLIED</flowPara><flowPara
+         id="flowPara24009">  -- a pointer button was clicked</flowPara><flowPara
+         id="flowPara24011">  -- ondblclick %Script; #IMPLIED</flowPara><flowPara
+         id="flowPara24013">  -- a pointer button was double</flowPara></flowRoot>  </g>
+</svg>
