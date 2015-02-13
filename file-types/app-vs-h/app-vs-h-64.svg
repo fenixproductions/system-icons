@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg3003"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="app-vs-h-64.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-vs-h\app-vs-h-64.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3005">
+    <clipPath
+       id="clipPath3008"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3010"
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       gradientTransform="matrix(1,0,0,-1,-110.8195,852.7348)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#SVGID_1_"
+       id="linearGradient3057"
+       y2="108.459"
+       x2="464.315"
+       y1="532.26703"
+       x1="464.315" />
+    <linearGradient
+       gradientTransform="matrix(1,0,0,-1,0.14,777.638)"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_1_"
+       y2="108.459"
+       x2="464.315"
+       y1="532.26703"
+       x1="464.315">
+      <stop
+         offset="0.1497"
+         style="stop-color:#2a4f84;stop-opacity:1"
+         id="stop13" />
+      <stop
+         offset="0.38839999"
+         style="stop-color:#294e82;stop-opacity:1"
+         id="stop15" />
+      <stop
+         offset="1"
+         style="stop-color:#172e4e;stop-opacity:1"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       x1="464.315"
+       y1="532.26703"
+       x2="464.315"
+       y2="108.459"
+       id="SVGID_1_-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0.14,777.638)">
+      <stop
+         id="stop13-8"
+         style="stop-color:#2a4f84;stop-opacity:1"
+         offset="0.1497" />
+      <stop
+         id="stop15-8"
+         style="stop-color:#294e82;stop-opacity:1"
+         offset="0.38839999" />
+      <stop
+         id="stop17-2"
+         style="stop-color:#172e4e;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="464.315"
+       y1="532.26703"
+       x2="464.315"
+       y2="108.459"
+       id="linearGradient3057-9"
+       xlink:href="#SVGID_1_-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-110.8195,852.7348)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3008-4">
+      <path
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
+         id="path3010-0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11"
+     inkscape:cx="5.3303487"
+     inkscape:cy="27.607285"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
+     inkscape:window-y="532"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="8,176"
+       id="guide3013" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="184,496"
+       id="guide3015" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="40,8"
+       id="guide3017" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="496,248"
+       id="guide3019" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="56,96"
+       id="guide3104" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="64,56"
+       id="guide3106" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="50,28"
+       id="guide3018" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="24,28"
+       id="guide3020" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3008">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 14,8 36,0 0,48 -36,0 z"
+       id="rect3021" />
+    <path
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 15,9 34,0 0,46 -34,0 z"
+       id="rect3791"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5947"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5949"><rect
+           id="rect5951"
+           width="32"
+           height="68"
+           x="-36"
+           y="12" /></flowRegion><flowPara
+         id="flowPara5953">#include &lt;stdio.h&gt; int main(int argc, char *argv[]){        if(argc == 99)                return 99;        if(argv[0] != NULL){                argv[0] = NULL;                argc = 0;        }        argc = main(argc + 1, argv);        printf(&quot;%d bottle%c of beer on the wall\n&quot;, argc, argc == 1?'\0': 's');        printf(&quot;%d bottle%c of beer\n&quot;, argc, argc == 1?'\0': 's');        printf(&quot;Take one down, pass it around\n&quot;);         printf(&quot;%d bottle%c of beer on the wall\n\n&quot;, argc - 1, (argc - 1) == 1?'\0': 's');        return argc - 1;}#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt; int main(void){  unsigned int bottles = 99;  do  {    printf(&quot;%u bottles of beer on the wall\n&quot;, bottles);    printf(&quot;%u bottles of beer\n&quot;, bottles);    printf(&quot;Take one down, pass it around\n&quot;);    printf(&quot;%u bottles of beer on the wall\n\n&quot;, --bottles);  } while(bottles &gt; 0);  return EXIT_SUCCESS;}</flowPara><flowPara
+         id="flowPara5955" /><flowPara
+         id="flowPara5957" /><flowPara
+         id="flowPara5959" /><flowPara
+         id="flowPara5961" /><flowPara
+         id="flowPara5963" /><flowPara
+         id="flowPara5965" /><flowPara
+         id="flowPara5967" /><flowPara
+         id="flowPara5969" /><flowPara
+         id="flowPara5971" /><flowPara
+         id="flowPara5973" /><flowPara
+         id="flowPara5975" /><flowPara
+         id="flowPara5977" /><flowPara
+         id="flowPara5979" /><flowPara
+         id="flowPara5981" /><flowPara
+         id="flowPara5983" /><flowPara
+         id="flowPara5985" /><flowPara
+         id="flowPara5987" /><flowPara
+         id="flowPara5989" /><flowPara
+         id="flowPara5991" /><flowPara
+         id="flowPara5993" /><flowPara
+         id="flowPara5995" /><flowPara
+         id="flowPara5997" /><flowPara
+         id="flowPara5999" /><flowPara
+         id="flowPara6001" /><flowPara
+         id="flowPara6003" /><flowPara
+         id="flowPara6005" /><flowPara
+         id="flowPara6007" /><flowPara
+         id="flowPara6009" /><flowPara
+         id="flowPara6011" /><flowPara
+         id="flowPara6013" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6015"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5px;line-height:125%;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-58.909092,6.5454546)"><flowRegion
+         id="flowRegion6017"><rect
+           id="rect6019"
+           width="29.909092"
+           height="26.454546"
+           x="76"
+           y="4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'" /></flowRegion><flowPara
+         id="flowPara6049">#ifndef _a_h_included_</flowPara><flowPara
+         id="flowPara27091">#define _a_h_included_</flowPara><flowPara
+         id="flowPara27093">#include &quot;abase.h&quot;</flowPara><flowPara
+         id="flowPara27095">#include &quot;b.h&quot;</flowPara><flowPara
+         id="flowPara27099">// Forward Declarations</flowPara><flowPara
+         id="flowPara27101">class C;</flowPara><flowPara
+         id="flowPara27103">class D;</flowPara><flowPara
+         id="flowPara27109">class A : public ABase {</flowPara><flowPara
+         id="flowPara27111">  B m_b;</flowPara><flowPara
+         id="flowPara27113">  C *m_c;</flowPara><flowPara
+         id="flowPara27115">  D *m_d;</flowPara><flowPara
+         id="flowPara27139">  public:</flowPara><flowPara
+         id="flowPara27141">    void SetC(C *c);</flowPara><flowPara
+         id="flowPara27131">    C *GetC() const;</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.64715767px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#373763;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.703081"
+       y="52.769409"
+       id="text26788"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan26790"
+         x="30.703081"
+         y="52.769409">h</tspan></text>
+  </g>
+</svg>

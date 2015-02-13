@@ -21,7 +21,6 @@ courier 1.6
 Position	Extension	Example File Type	%
 33	qbb	QuickBooks backup file	0.21
 ?34	mpeg	MPEG 1 System Stream	0.17
-36	swf	SWF vector graphics	0.15
 37	asf	Advanced Systems Format	0.15
 ?40	rm	RealMedia	0.12
 42	chm	Microsoft Compressed HTML Help	0.09
@@ -29,12 +28,10 @@ Position	Extension	Example File Type	%
 46	dss	DCC Active Designer File	0.08
 47	dmg	Disk image	0.08
 48	iso	Optical disk image	0.08
-49	flv	Flash video	0.07
 50	wpd	WordPerfect Document	0.07
 51	cda	CD Audio Track Shortcut	0.07
 52	m4b	MPEG-4 Part 14	0.07
 54	gz	Gzip archive	0.06
-55	fla	Adobe Flash	0.06
 56	qxd	QuarkXpress Document	0.06
 58	aiff	Audio Interchange File Format	0.06
 61	3gp	Third Generation Partnership Project	0.05
@@ -98,19 +95,16 @@ Position	Extension	Example File Type	%
 .m4a	MPEG-4 Audio File
 .mid	MIDI File
 .mpa	MPEG-2 Audio File
-.ra	Real Audio File
 
 ## Video Files
 .3g2	3GPP2 Multimedia File
 .3gp	3GPP Multimedia File
 .asf	Advanced Systems Format File
 .asx	Microsoft ASF Redirector File
-.flv	Flash Video File
 .m4v	iTunes Video File
 .mp4	MPEG-4 Video File
 .rm	Real Media File
 .srt	SubRip Subtitle File
-.swf	Shockwave Flash Movie
 .vob	DVD Video Object File
 
 ## 3D Image Files
@@ -145,7 +139,6 @@ Position	Extension	Example File Type	%
 ## Executable Files
 .bat	DOS Batch File
 .cgi	Common Gateway Interface Script
-.com	DOS Command File
 .exe	Windows Executable File
 .gadget	Windows Gadget
 .pif	Program Information File
@@ -227,13 +220,7 @@ Position	Extension	Example File Type	%
 .vcd	Virtual CD
 
 # Developer Files
-.class	Java Class File
-.fla	Adobe Flash Animation
-.h	C/C++/Objective-C Header File
-.java	Java Source Code File
-.lua	Lua Source File
 .m	Objective-C Implementation File
-.pl	Perl Script
 .py	Python Script
 .sh	Bash Shell Script
 .sln	Visual Studio Solution File

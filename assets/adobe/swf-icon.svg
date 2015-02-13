@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 1814.1732 1814.1732"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="swf-icon.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="2654.7468"
+     inkscape:cy="-229.58396"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
+     inkscape:window-y="532"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,761.81102)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path8148"
+       d="m 236.4851,957.47749 c -4.04466,-4.04466 -7.3539,-69.0787 -7.3539,-144.52016 l 0,-137.16641 40.49768,-8.31319 C 507.90779,618.56387 584.69703,531.711 746.01323,128.66199 861.10864,-158.90423 927.064,-288.82157 1014.3501,-399.90169 c 113.6729,-144.66009 290.45,-239.99232 482.1851,-260.03264 l 88.5069,-9.25071 -4.2206,152.01637 -4.2207,152.01654 -73.632,16.85133 c -95.1299,21.77099 -150.9845,52.07668 -208.1095,112.9162 -62.1814,66.22468 -123.2356,167.020576 -123.2356,203.45242 0,27.3750369 9.4296,29.7456103 118.3267,29.7456103 l 118.3268,0 -4.1969,150.9460497 -4.1967,150.94605 -191.4438,7.36319 -191.4438,7.36333 -68.27312,136.34125 c -162.31811,324.14885 -334.85707,462.5211 -627.5607,503.28881 -42.52772,5.92323 -80.63228,7.46018 -84.67708,3.41538 z"
+       style="fill:#d70404" />
+  </g>
+</svg>
