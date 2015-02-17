@@ -89,13 +89,6 @@ Position	Extension	Example File Type	%
 .tax2014	TurboTax 2014 Tax Return
 .vcf	vCard File
 
-## Audio Files
-.aif	Audio Interchange File Format
-.iff	Interchange File Format
-.m4a	MPEG-4 Audio File
-.mid	MIDI File
-.mpa	MPEG-2 Audio File
-
 ## Video Files
 .3g2	3GPP2 Multimedia File
 .3gp	3GPP Multimedia File
@@ -106,12 +99,6 @@ Position	Extension	Example File Type	%
 .rm	Real Media File
 .srt	SubRip Subtitle File
 .vob	DVD Video Object File
-
-## 3D Image Files
-.3dm	Rhino 3D Model
-.3ds	3D Studio Scene
-.max	3ds Max Scene File
-.obj	Wavefront 3D Object File
 
 ## Raster Image Files
 .dds	DirectDraw Surface
