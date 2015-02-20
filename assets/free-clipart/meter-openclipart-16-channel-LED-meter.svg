@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" viewBox="0 0 324 216">
+  <style type="text/css">
+	.st0{fill:#FF931E;stroke:#000;stroke-width:0.5;}
+	.st1{fill:#00C700;stroke:#000;stroke-width:0.5;}
+	.st2{fill:#FF1D25;stroke:#000;stroke-width:0.5;}
+</style>
+  <symbol id="amber" viewBox="-8.3 -8.3 16.5 16.5">
+    <polygon class="st0" points="8,-8 -8,-8 -8,8 8,8  "/>
+  </symbol>
+  <symbol id="green" viewBox="-8.3 -8.3 16.5 16.5">
+    <polygon class="st1" points="8,-8 -8,-8 -8,8 8,8  "/>
+  </symbol>
+  <symbol id="red" viewBox="-8.3 -8.3 16.5 16.5">
+    <polygon class="st2" points="8,-8 -8,-8 -8,8 8,8  "/>
+  </symbol>
+  <rect width="324" height="216"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 292 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 292 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 292 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 292 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 292 112.25)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 292 92)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 292 72)"/>
+  <use xlink:href="#red" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 292 52)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 311.75 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 311.75 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 311.75 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 311.75 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 311.75 112.25)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 311.75 92)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 311.75 72)"/>
+  <use xlink:href="#red" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 311.75 52)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 271.75 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 271.75 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 271.75 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 271.75 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 271.75 112.25)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 271.75 92)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 271.75 72)"/>
+  <use xlink:href="#red" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 271.75 52)"/>
+  <use xlink:href="#red" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 271.75 32)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 252.25 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 252.25 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 252.25 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 252.25 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 232.25 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 232.25 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 232.25 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 232.25 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 232.25 112.25)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 212.25 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 212.25 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 212.25 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 212.25 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 191.75 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 191.75 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 191.75 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 191.75 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 191.75 112.25)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 171.5 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 171.5 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 171.5 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 152 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 152 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 152 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 152 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 152 112.25)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 152 92)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 132 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 132 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 132 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 132 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 132 112.25)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 132 92)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 132 72)"/>
+  <use xlink:href="#red" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 132 52)"/>
+  <use xlink:href="#red" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 132 32)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 112 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 112 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 112 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 112 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 112 112.25)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 112 92)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 112 72)"/>
+  <use xlink:href="#red" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 112 52)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 92 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 92 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 92 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 92 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 92 112.25)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 71.75 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 71.75 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 71.75 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 71.75 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 52.25 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 52.25 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 52.25 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 52.25 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 52.25 112.25)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 52.25 92)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 52.25 72)"/>
+  <use xlink:href="#red" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 52.25 52)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 32.25 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 32.25 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 32.25 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 32.25 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 32.25 112.25)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 12.25 192)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 12.25 172)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 12.25 152)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 12.25 132)"/>
+  <use xlink:href="#green" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 12.25 112.25)"/>
+  <use xlink:href="#amber" width="16.5" height="16.5" x="-8.3" y="-8.3" transform="matrix(1 0 0 -1 12.25 92)"/>
+</svg>

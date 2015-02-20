@@ -15,8 +15,8 @@
    id="svg3003"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="app-executable-com-64.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-executable-com\app-executable-com-64.png"
+   sodipodi:docname="app-executable-bat-64.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-executable-bat\app-executable-bat-64.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -213,19 +213,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.5"
-     inkscape:cx="14.189568"
-     inkscape:cy="18.882599"
+     inkscape:zoom="15.556349"
+     inkscape:cx="35.730277"
+     inkscape:cy="29.947704"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
-     inkscape:window-x="2872"
-     inkscape:window-y="532"
+     inkscape:window-width="2880"
+     inkscape:window-height="1555"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -360,26 +360,21 @@
            x="73.007286"
            y="33.141319"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:2px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara4250">DOS command file</flowPara><flowPara
-         id="flowPara4336" /><flowPara
-         id="flowPara4338">c:/dir *.txt</flowPara><flowPara
-         id="flowPara4271"> Volume in drive C is System</flowPara><flowPara
-         id="flowPara4279"> Volume Serial Number is E22A-5715</flowPara><flowPara
-         id="flowPara4281" /><flowPara
-         id="flowPara4283"> Directory of C:\</flowPara><flowPara
-         id="flowPara4340" /><flowPara
-         id="flowPara4287">2015-02-04  16:59       0  file1.txt</flowPara><flowPara
-         id="flowPara4289">2013-08-06  08:08      97  file2.txt</flowPara><flowPara
-         id="flowPara4291">2007-11-07  07:00  17 734  file3.txt</flowPara><flowPara
-         id="flowPara4293">2007-11-07  07:00  17 134  file4.txt</flowPara><flowPara
-         id="flowPara4301">2007-11-07  07:00   1 034  file5.txt</flowPara><flowPara
-         id="flowPara4332" /><flowPara
-         id="flowPara4334">5 File(s)          35999 bytes               0 Dir(s)  85 135 106 048 bytes free</flowPara><flowPara
-         id="flowPara4303" /><flowPara
-         id="flowPara4305" /><flowPara
-         id="flowPara4307" /><flowPara
-         id="flowPara4309" /><flowPara
-         id="flowPara4311" /><flowPara
-         id="flowPara4313" /><flowPara
-         id="flowPara4315" /></flowRoot>  </g>
+         id="flowPara4315">rem DOS batch file</flowPara><flowPara
+         id="flowPara13095"></flowPara><flowPara
+         id="flowPara13097">@echo off</flowPara><flowPara
+         id="flowPara13099">call :StartTimer</flowPara><flowPara
+         id="flowPara13101">for %%X in (*.jpg) do (</flowPara><flowPara
+         id="flowPara13103">d:\grafa\ImageMagick-6.7.2-8\convert.exe -deskew 40%% -bordercolor #FFFFFF -border 10x10 -fuzz 40%% -trim </flowPara><flowPara
+         id="flowPara13105">d:\grafa\images\skan\%%~X d:\grafa\images\skan\ok\%%~X&quot;</flowPara><flowPara
+         id="flowPara13107">)</flowPara><flowPara
+         id="flowPara13109">call :StopTimer</flowPara><flowPara
+         id="flowPara13111">call :DisplayTimerResult</flowPara><flowPara
+         id="flowPara13113">goto :EOF</flowPara><flowPara
+         id="flowPara13115">:StartTimer</flowPara><flowPara
+         id="flowPara13117">:: Store start time</flowPara><flowPara
+         id="flowPara13119">set StartTIME=%TIME%</flowPara><flowPara
+         id="flowPara13121">for /f &quot;usebackq tokens=1-4 delims=:., &quot; %%f in (`echo %StartTIME: =0%`) do set /a Start100S=1%%f*360000+1%%g*6000+1%%h*100+1%%i-36610100</flowPara><flowPara
+         id="flowPara13123" /><flowPara
+         id="flowPara13125" /></flowRoot>  </g>
 </svg>

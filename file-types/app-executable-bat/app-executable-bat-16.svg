@@ -15,8 +15,8 @@
    id="svg3003"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="app-executable-com-16.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-executable-com\app-executable-com-16.png"
+   sodipodi:docname="app-executable-bat-16.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-executable-bat\app-executable-bat-16.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -352,7 +352,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.112698"
-     inkscape:cx="4.9721316"
+     inkscape:cx="-5.232705"
      inkscape:cy="11.779982"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -360,10 +360,10 @@
      inkscape:grid-bbox="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
-     inkscape:window-x="2872"
-     inkscape:window-y="532"
+     inkscape:window-width="2880"
+     inkscape:window-height="1555"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -468,14 +468,14 @@
          id="tspan6562-4" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:5.93451166px;line-height:125%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2.527673"
-       y="57.572006"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:6.02175808px;line-height:125%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.4913263"
+       y="58.284622"
        id="text5960"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5962"
-         x="2.527673"
-         y="57.572006">com</tspan></text>
+         x="2.4913263"
+         y="58.284622">bat</tspan></text>
   </g>
 </svg>

@@ -123,14 +123,6 @@ Position	Extension	Example File Type	%
 .pdb	Program Database
 .sql	Structured Query Language Data File
 
-## Executable Files
-.bat	DOS Batch File
-.cgi	Common Gateway Interface Script
-.exe	Windows Executable File
-.gadget	Windows Gadget
-.pif	Program Information File
-.wsf	Windows Script File
-
 ## Game Files
 .dem	Video Game Demo File
 .gam	Saved Game File
@@ -208,8 +200,6 @@ Position	Extension	Example File Type	%
 
 # Developer Files
 .m	Objective-C Implementation File
-.py	Python Script
-.sh	Bash Shell Script
 .sln	Visual Studio Solution File
 .swift	Swift Source Code File
 .vcxproj	Visual C++ Project

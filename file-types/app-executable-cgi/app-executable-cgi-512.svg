@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg3003"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="app-executable-cgi-512.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-executable-cgi\app-executable-cgi-512.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3005">
+    <linearGradient
+       id="linearGradient3900">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop3902" />
+      <stop
+         style="stop-color:#9090ff;stop-opacity:1;"
+         offset="1"
+         id="stop3904" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3890">
+      <stop
+         style="stop-color:#483737;stop-opacity:1;"
+         offset="0"
+         id="stop3892" />
+      <stop
+         style="stop-color:#483737;stop-opacity:0;"
+         offset="1"
+         id="stop3894" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3882">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop3884" />
+      <stop
+         style="stop-color:#ff9090;stop-opacity:1;"
+         offset="1"
+         id="stop3886" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3865">
+      <stop
+         style="stop-color:#0000a3;stop-opacity:1;"
+         offset="0"
+         id="stop3867" />
+      <stop
+         style="stop-color:#0000de;stop-opacity:1;"
+         offset="1"
+         id="stop3869" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4085">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4087" />
+      <stop
+         style="stop-color:#4f4f4f;stop-opacity:1;"
+         offset="1"
+         id="stop4089" />
+    </linearGradient>
+    <clipPath
+       id="clipPath3008"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3010"
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4109">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect4111"
+         width="439.68582"
+         height="344"
+         x="36"
+         y="-391.63632" />
+    </mask>
+    <mask
+       id="mask3000"
+       maskUnits="userSpaceOnUse">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 18,-430 476,0 0,476 -476,0 z"
+         id="path3002"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </mask>
+    <clipPath
+       id="clipPath3008-4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3010-0"
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3008-40">
+      <path
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
+         id="path3010-9" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter3859">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.52"
+         id="feGaussianBlur3861" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9722718"
+     inkscape:cx="38.39603"
+     inkscape:cy="287.47088"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
+     inkscape:window-y="532"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="16,376"
+       id="guide3013" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="184,496"
+       id="guide3015" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="336,16"
+       id="guide3017" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="496,248"
+       id="guide3019" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="280,312"
+       id="guide3104" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3008">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,448)">
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3085"
+       d="m 32,-424 448,0 0,456 -448,0 z"
+       style="opacity:0.37168141999999998;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3859)"
+       transform="matrix(1.0243043,0,0,1.0243043,-6.2219008,8.7636428)" />
+    <path
+       id="path3083"
+       d="m 33,-423 446,0 0,454 -446,0 z"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 39.181818,-392 473,-392 473,28 39.181818,28 Z"
+       id="path3863" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       x="-154.18182"
+       y="603.63635"
+       id="text6560"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-448)"><tspan
+         sodipodi:role="line"
+         id="tspan6562" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4240"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:15px;line-height:125%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,-448)"><flowRegion
+         id="flowRegion4242"><rect
+           id="rect4244"
+           width="416"
+           height="400"
+           x="48"
+           y="64"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:15px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';fill:#000000" /></flowRegion><flowPara
+         id="flowPara4315">#!/usr/bin/perl -wT</flowPara><flowPara
+         id="flowPara8528">use CGI qw(:standard);</flowPara><flowPara
+         id="flowPara8530">use CGI::Carp qw(warningsToBrowser fatalsToBrowser);</flowPara><flowPara
+         id="flowPara8532">use DBI;</flowPara><flowPara
+         id="flowPara8534">use strict;</flowPara><flowPara
+         id="flowPara8536"></flowPara><flowPara
+         id="flowPara8538">print header;</flowPara><flowPara
+         id="flowPara8540">print start_html(&quot;Kite Catalog&quot;);</flowPara><flowPara
+         id="flowPara8542"></flowPara><flowPara
+         id="flowPara8544">my $dbh = DBI-&gt;connect( &quot;dbi:mysql:products&quot;, &quot;webserver&quot;, &quot;&quot;, { RaiseError =&gt;</flowPara><flowPara
+         id="flowPara8546"> 1, AutoCommit =&gt; 1 }) or &amp;dienice(&quot;Can't connect to database: $DBI::errstr&quot;);</flowPara><flowPara
+         id="flowPara8548"></flowPara><flowPara
+         id="flowPara8550">print h2(&quot;Kite Catalog&quot;);</flowPara><flowPara
+         id="flowPara8552"></flowPara><flowPara
+         id="flowPara8554">my $sth = $dbh-&gt;prepare(qq(select stocknum,name,price from items where status != &quot;OUT&quot; order by stocknum)) or &amp;dienice(&quot;Can't select from table: &quot;,$dbh-&gt;errmsg);</flowPara><flowPara
+         id="flowPara8556"></flowPara><flowPara
+         id="flowPara8558">$sth-&gt;execute;while (my($stocknum,$name,$price) = $sth-&gt;fetchrow_array) {   print qq(&lt;b&gt;$name&lt;/b&gt; - \$$price&lt;br&gt;\n);   print qq(&lt;a href=&quot;addcart.cgi?$stocknum&quot;&gt;Add to Cart&lt;/a&gt;&lt;br&gt;&lt;br&gt;\n);}print end_html;sub dienice {    my($msg) = @_;    print &quot;&lt;h2&gt;Error&lt;/h2&gt;\n&quot;;    print $msg;    exit;}</flowPara><flowPara
+         id="flowPara8560" /><flowPara
+         id="flowPara8562" /><flowPara
+         id="flowPara8564" /><flowPara
+         id="flowPara8566" /><flowPara
+         id="flowPara8568" /><flowPara
+         id="flowPara8570" /><flowPara
+         id="flowPara8572" /><flowPara
+         id="flowPara8574" /><flowPara
+         id="flowPara8576" /><flowPara
+         id="flowPara8578" /><flowPara
+         id="flowPara8580" /><flowPara
+         id="flowPara8582" /><flowPara
+         id="flowPara8584" /><flowPara
+         id="flowPara8586" /></flowRoot>    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path8242"
+       d="m 39,-420 434,0 0,25 -434,0 z"
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1"
+       d="m 88,-419 360,0 0,23 -360,0 z"
+       id="rect8219"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path8230"
+       d="m 40,-419 23,0 0,23 -23,0 z"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       d="m 64,-419 23,0 0,23 -23,0 z"
+       id="path8234"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path8238"
+       d="m 449,-419 23,0 0,23 -23,0 z"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+    <g
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text8244"
+       transform="matrix(2.1933575,0,0,6.3532993,-866.72457,2423.8229)">
+      <path
+         d="m 420.69046,-446.35437 -2.27961,0.78699 2.27961,0.6296 0,0.62959 -4.1033,-1.25919 4.1033,-1.41658 z"
+         id="path8256"
+         inkscape:connector-curvature="0"
+         style="fill:#808080"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#808080"
+         inkscape:connector-curvature="0"
+         id="path8258"
+         d="m 420.69046,-446.35437 -2.27961,0.78699 2.27961,0.6296 0,0.62959 -4.1033,-1.25919 4.1033,-1.41658 z" />
+    </g>
+    <g
+       transform="matrix(-2.1933575,0,0,6.3532993,993.7246,2423.8229)"
+       id="g8260"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#808080"
+         inkscape:connector-curvature="0"
+         id="path8262"
+         d="m 420.69046,-446.35437 -2.27961,0.78699 2.27961,0.6296 0,0.62959 -4.1033,-1.25919 4.1033,-1.41658 z" />
+      <path
+         d="m 420.69046,-446.35437 -2.27961,0.78699 2.27961,0.6296 0,0.62959 -4.1033,-1.25919 4.1033,-1.41658 z"
+         id="path8264"
+         inkscape:connector-curvature="0"
+         style="fill:#808080"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <path
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1"
+       id="path8266"
+       sodipodi:type="arc"
+       sodipodi:cx="460.5"
+       sodipodi:cy="-407.5"
+       sodipodi:rx="9.5"
+       sodipodi:ry="9.5"
+       sodipodi:start="0.4202958"
+       sodipodi:end="5.5614944"
+       d="m 469.1732,-403.62371 a 9.5,9.5 0 0 1 -9.94992,5.53753 9.5,9.5 0 0 1 -8.11561,-7.98761 9.5,9.5 0 0 1 5.37865,-10.03669 9.5,9.5 0 0 1 11.14523,2.33426 L 460.5,-407.5 Z" />
+    <circle
+       r="7.772727"
+       cy="-407.5"
+       cx="460.5"
+       id="circle8268"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1"
+       id="path8274"
+       sodipodi:sides="3"
+       sodipodi:cx="465"
+       sodipodi:cy="-415"
+       sodipodi:r1="4"
+       sodipodi:r2="2"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 469,-415 -3,1.73205 -3,1.73205 0,-3.4641 0,-3.4641 3,1.73205 z"
+       inkscape:transform-center-x="-0.2603752"
+       transform="matrix(1.010363,0.58333335,-0.4330127,0.75,-183.99834,-374.23526)"
+       inkscape:transform-center-y="-0.71569901" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.92864513px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.570984"
+       y="-403.93326"
+       id="text8588"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8590"
+         x="95.570984"
+         y="-403.93326">http://localhost/test.cgi</tspan></text>
+  </g>
+</svg>
