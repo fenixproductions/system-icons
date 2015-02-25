@@ -1,0 +1,68 @@
+Dump Summary
+------------
+Dump File:	9275b2ce-f363-4975-a935-e4ce07d1c85f.dmp : C:\Users\kakamins\AppData\Roaming\Mozilla\Firefox\Crash Reports\pending\9275b2ce-f363-4975-a935-e4ce07d1c85f.dmp
+Last Write Time:	2012-07-31 18:42:18
+Process Name:	plugin-container.exe : C:\Program Files (x86)\net\Mozilla Firefox\plugin-container.exe
+Process Architecture:	x86
+Exception Code:	0xC0000005
+Exception Information:	The thread tried to read from or write to a virtual address for which it does not have the appropriate access.
+Heap Information:	Not Present
+
+System Information
+------------------
+OS Version:	6.1.7601
+CLR Version(s):	
+
+Modules
+-------
+Module Name	Module Path	Module Version
+-----------	-----------	--------------
+plugin-container.exe	C:\Program Files (x86)\net\Mozilla Firefox\plugin-container.exe	14.0.1.4577
+ntdll.dll	C:\Windows\SysWOW64\ntdll.dll	6.1.7601.17725
+kernel32.dll	C:\Windows\SysWOW64\kernel32.dll	6.1.7601.17651
+KERNELBASE.dll	C:\Windows\SysWOW64\KERNELBASE.dll	6.1.7601.17651
+xul.dll	C:\Program Files (x86)\net\Mozilla Firefox\xul.dll	14.0.1.4577
+mozjs.dll	C:\Program Files (x86)\net\Mozilla Firefox\mozjs.dll	0.0.0.0
+nspr4.dll	C:\Program Files (x86)\net\Mozilla Firefox\nspr4.dll	4.9.0.0
+advapi32.dll	C:\Windows\SysWOW64\advapi32.dll	6.1.7601.17514
+msvcrt.dll	C:\Windows\SysWOW64\msvcrt.dll	7.0.7601.17744
+sechost.dll	C:\Windows\SysWOW64\sechost.dll	6.1.7600.16385
+rpcrt4.dll	C:\Windows\SysWOW64\rpcrt4.dll	6.1.7601.17514
+sspicli.dll	C:\Windows\SysWOW64\sspicli.dll	6.1.7601.17856
+CRYPTBASE.dll	C:\Windows\SysWOW64\CRYPTBASE.dll	6.1.7600.16385
+wsock32.dll	C:\Windows\System32\wsock32.dll	6.1.7600.16385
+ws2_32.dll	C:\Windows\SysWOW64\ws2_32.dll	6.1.7601.17514
+nsi.dll	C:\Windows\SysWOW64\nsi.dll	6.1.7600.16385
+winmm.dll	C:\Windows\System32\winmm.dll	6.1.7601.17514
+user32.dll	C:\Windows\SysWOW64\user32.dll	6.1.7601.17514
+gdi32.dll	C:\Windows\SysWOW64\gdi32.dll	6.1.7601.17514
+lpk.dll	C:\Windows\SysWOW64\lpk.dll	6.1.7600.16385
+usp10.dll	C:\Windows\SysWOW64\usp10.dll	1.626.7601.17514
+msvcr100.dll	C:\Program Files (x86)\net\Mozilla Firefox\msvcr100.dll	10.0.30319.1
+mozglue.dll	C:\Program Files (x86)\net\Mozilla Firefox\mozglue.dll	14.0.1.4577
+smime3.dll	C:\Program Files (x86)\net\Mozilla Firefox\smime3.dll	3.13.5.0
+nss3.dll	C:\Program Files (x86)\net\Mozilla Firefox\nss3.dll	3.13.5.0
+nssutil3.dll	C:\Program Files (x86)\net\Mozilla Firefox\nssutil3.dll	3.13.5.0
+plc4.dll	C:\Program Files (x86)\net\Mozilla Firefox\plc4.dll	4.9.0.0
+plds4.dll	C:\Program Files (x86)\net\Mozilla Firefox\plds4.dll	4.9.0.0
+ssl3.dll	C:\Program Files (x86)\net\Mozilla Firefox\ssl3.dll	3.13.5.0
+mozsqlite3.dll	C:\Program Files (x86)\net\Mozilla Firefox\mozsqlite3.dll	3.7.11.0
+gkmedias.dll	C:\Program Files (x86)\net\Mozilla Firefox\gkmedias.dll	14.0.1.4577
+mozalloc.dll	C:\Program Files (x86)\net\Mozilla Firefox\mozalloc.dll	14.0.1.4577
+msvcp100.dll	C:\Program Files (x86)\net\Mozilla Firefox\msvcp100.dll	10.0.30319.1
+shell32.dll	C:\Windows\SysWOW64\shell32.dll	6.1.7601.17859
+shlwapi.dll	C:\Windows\SysWOW64\shlwapi.dll	6.1.7601.17514
+ole32.dll	C:\Windows\SysWOW64\ole32.dll	6.1.7601.17514
+version.dll	C:\Windows\System32\version.dll	6.1.7600.16385
+imm32.dll	C:\Windows\SysWOW64\imm32.dll	6.1.7601.17514
+msctf.dll	C:\Windows\SysWOW64\msctf.dll	6.1.7600.16385
+msimg32.dll	C:\Windows\System32\msimg32.dll	6.1.7600.16385
+IPHLPAPI.DLL	C:\Windows\System32\IPHLPAPI.DLL	6.1.7601.17514
+winnsi.dll	C:\Windows\System32\winnsi.dll	6.1.7600.16385
+uxtheme.dll	C:\Windows\System32\uxtheme.dll	6.1.7600.16385
+setupapi.dll	C:\Windows\SysWOW64\setupapi.dll	6.1.7601.17514
+cfgmgr32.dll	C:\Windows\SysWOW64\cfgmgr32.dll	6.1.7601.17621
+oleaut32.dll	C:\Windows\SysWOW64\oleaut32.dll	6.1.7601.17676
+devobj.dll	C:\Windows\SysWOW64\devobj.dll	6.1.7601.17621
+nvinit.dll	C:\Windows\SysWOW64\nvinit.dll	8.17.12.9688
+dwmapi.dll	C:\Windows\System32\dwmapi.dll	6.1.7600.16385

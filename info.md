@@ -133,11 +133,6 @@ Position	Extension	Example File Type	%
 # CAD Files
 .dxf	Drawing Exchange Format File
 
-# GIS Files
-.gpx	GPS Exchange File
-.kml	Keyhole Markup Language File
-.kmz	Google Earth Placemark File
-
 # Web Files
 .asp	Active Server Page
 .aspx	Active Server Page Extended File
@@ -148,10 +143,6 @@ Position	Extension	Example File Type	%
 .php	PHP Source Code File
 .rss	Rich Site Summary
 ?.xhtml	Extensible Hypertext Markup Language File
-
-# Plugin Files
-.crx	Chrome Extension
-.plugin	Mac OS X Plug-in
 
 # Font Files
 .fnt	Windows Font File
@@ -165,17 +156,11 @@ Position	Extension	Example File Type	%
 .cur	Windows Cursor
 .deskthemepack	Windows 8 Desktop Theme Pack File
 .dll	Dynamic Link Library
-.dmp	Windows Memory Dump
 .drv	Device Driver
 .icns	Mac OS X Icon Resource File
 .ico	Icon File
 .lnk	Windows File Shortcut
 .sys	Windows System File
-
-# Settings Files
-.cfg	Configuration File
-.ini	Windows Initialization File
-.prf	Outlook Profile File
 
 # Encoded Files
 .hqx	BinHex 4.0 Encoded File
