@@ -56,7 +56,6 @@ Position	Extension	Example File Type	%
 82	mcd	MathCad file; MathCad	0.02
 83	ss	Bitmap graphics; Splash	0.02
 84	m4v	MPEG-4 Part 14	0.02
--85	eml	E-mail message	0.02
 86	mid	Musical Instrument Digital Interface	0.02
 87	ogg	Ogg	0.02
 88	ram	RealAudio	0.02
@@ -90,8 +89,6 @@ Position	Extension	Example File Type	%
 .vcf	vCard File
 
 ## Video Files
-.3g2	3GPP2 Multimedia File
-.3gp	3GPP Multimedia File
 .asf	Advanced Systems Format File
 .asx	Microsoft ASF Redirector File
 .m4v	iTunes Video File
@@ -121,7 +118,6 @@ Position	Extension	Example File Type	%
 .db	Database File
 .dbf	Database File
 .pdb	Program Database
-.sql	Structured Query Language Data File
 
 ## Game Files
 .dem	Video Game Demo File
