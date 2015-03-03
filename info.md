@@ -76,17 +76,11 @@ Position	Extension	Example File Type	%
 # Common file extensions
 (http://www.fileinfo.com/filetypes/common)
 
-## Text Files
-.wps	Microsoft Works Word Processor Document
-
 ## Data Files
-.key	Keynote Presentation
 .keychain	Mac OS X Keychain File
-.sdf	Standard Data File
 .tar	Consolidated Unix File Archive
 .tax2012	TurboTax 2012 Tax Return
 .tax2014	TurboTax 2014 Tax Return
-.vcf	vCard File
 
 ## Video Files
 .asf	Advanced Systems Format File
