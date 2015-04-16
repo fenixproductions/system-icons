@@ -14,6 +14,39 @@ Courier new
 bold
 10
 courier 1.6
+---
+ebook formats:
+(http://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
+.azw	KF8 (Amazon Kindle)
+.azw3	KF8 (Amazon Kindle)
+.cb7 (7z)	Comic Book Archive file
+.cba (ACE)	Comic Book Archive file
+.cbr (RAR)	Comic Book Archive file
+.cbt (TAR)	Comic Book Archive file
+.cbz (ZIP)	Comic Book Archive file
+.ceb	Founder Electronics
+.chm	Compiled HTML
+.djvu	DjVu
+.epub	EPUB
+.fb2	FictionBook (Fb2)
+.ibooks	iBook
+.kf8	KF8 (Amazon Kindle)
+.lit	Microsoft LIT
+.lrf	Broadband eBooks (BBeB)
+.lrx	Broadband eBooks (BBeB)
+.mobi	Mobipocket
+.opf	Open Electronic Package
+.oxps	Open XML Paper Specification
+.pdb	eReader
+.pdb	Plucker
+.pdg	SSReader
+.pkg	Newton eBook
+.prc	Mobipocket
+.tr2	TomeRaider
+.tr3	TomeRaider
+.xeb	Founder Electronics
+.xps	Open XML Paper Specification
+
 
 ------------------------
 # 101 Most Popular File Types Sent Through MailBigFile
