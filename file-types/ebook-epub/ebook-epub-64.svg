@@ -15,8 +15,8 @@
    id="svg3003"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ebook-generic-64.svg"
-   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\ebook-generic\ebook-generic-64.png"
+   sodipodi:docname="ebook-epub-64.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\ebook-epub\ebook-epub-64.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -704,9 +704,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="23.439656"
-     inkscape:cy="25.709019"
+     inkscape:zoom="16.000001"
+     inkscape:cx="28.581084"
+     inkscape:cy="43.90766"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -818,112 +818,26 @@
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8290329px;line-height:125%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:none"
-       x="15.948788"
-       y="76.201012"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8290329px;line-height:125%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="18.657682"
+       y="50.207741"
        id="text4285"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4287"
-         x="15.948788"
-         y="76.201012">ebook</tspan></text>
-    <g
-       id="g6307"
-       transform="translate(55.566227,-3.2785192)">
-      <rect
-         ry="1.381654"
-         rx="1.381654"
-         y="45.330936"
-         x="-27.513809"
-         height="7.8951654"
-         width="7.8951654"
-         id="rect3425"
-         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1"
-         id="rect4227"
-         width="6.3161325"
-         height="6.3161325"
-         x="-26.724293"
-         y="46.120453"
-         rx="0.98689568"
-         ry="0.98689568" />
-      <path
-         inkscape:transform-center-x="-4"
-         d="m -22.381952,49.278519 -2.36855,1.367482 0,-2.734965 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.0471976"
-         sodipodi:arg1="0"
-         sodipodi:r2="0.78951657"
-         sodipodi:r1="1.5790331"
-         sodipodi:cy="49.278519"
-         sodipodi:cx="-23.960985"
-         sodipodi:sides="3"
-         id="path4231"
-         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1"
-         sodipodi:type="star" />
-      <g
-         transform="matrix(0.09868957,0,0,0.09868957,-48.830757,51.054931)"
-         id="g4247">
-        <rect
-           ry="7.7000003"
-           rx="7.7000003"
-           y="-40"
-           x="320"
-           height="44"
-           width="44"
-           id="rect4233"
-           style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1" />
-        <rect
-           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1"
-           id="rect4235"
-           width="40.000011"
-           height="40.000011"
-           x="322"
-           y="-38.000004"
-           rx="6.2500014"
-           ry="6.2500014" />
-      </g>
-      <g
-         transform="matrix(0.09868957,0,0,0.09868957,-65.805363,51.054931)"
-         id="g4251">
-        <rect
-           style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1"
-           id="rect4253"
-           width="44"
-           height="44"
-           x="320"
-           y="-40"
-           rx="7.7000003"
-           ry="7.7000003" />
-        <rect
-           ry="6.2500014"
-           rx="6.2500014"
-           y="-38.000004"
-           x="322"
-           height="40.000011"
-           width="40.000011"
-           id="rect4255"
-           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1" />
-      </g>
-    </g>
+         x="18.657682"
+         y="50.207741">epub</tspan></text>
     <path
        id="path4093-0"
        sodipodi:nodetypes="ccccccc"
        style="fill:#ffffff;stroke:#333333;stroke-width:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        d="m 19.291057,14.54207 c 4.621434,0 9.242759,-3.466076 12.708943,0 3.466075,-3.466076 8.087401,0 12.708943,0 l 0,17.330377 c -4.621433,0 -9.242758,-3.466075 -12.708943,0 -3.466076,-3.466075 -8.087401,0 -12.708943,0 z" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1"
-       id="rect4264"
-       width="1"
-       height="18"
-       x="31.5"
-       y="14"
-       rx="0"
-       ry="0" />
+    <path
+       style="fill:#85b916"
+       inkscape:connector-curvature="0"
+       d="m 31.999884,26.316053 -3.770839,-3.771145 3.770839,-3.770612 1.257049,1.25682 -2.514098,2.513792 1.256975,1.257049 3.770839,-3.770612 -3.284843,-3.284843 c -0.268231,-0.268461 -0.703305,-0.268461 -0.971765,0 l -5.312868,5.312866 c -0.268231,0.268232 -0.268231,0.703305 0,0.971767 l 5.312944,5.312713 c 0.268461,0.268461 0.703534,0.268461 0.971766,0 l 5.312944,-5.312713 c 0.268231,-0.268462 0.268231,-0.703535 0,-0.971767 l -0.77128,-0.771051 -5.027663,5.027736 z"
+       id="path5571" />
   </g>
   <g
      inkscape:groupmode="layer"
