@@ -22,25 +22,6 @@ ebook formats:
 .cbr (RAR)	Comic Book Archive file
 .cbt (TAR)	Comic Book Archive file
 .cbz (ZIP)	Comic Book Archive file
-.chm	Compiled HTML
-.djvu	DjVu
-
-
-.mobi	Mobipocket
-.prc	Mobipocket
-
-.opf	Open Electronic Package
-.oxps	Open XML Paper Specification
-.pdb	eReader
-.pdb	Plucker
-.pdg	SSReader
-.pkg	Newton eBook
-
-.tr2	TomeRaider
-.tr3	TomeRaider
-.xeb	Founder Electronics
-.xps	Open XML Paper Specification
-
 
 ------------------------
 # 101 Most Popular File Types Sent Through MailBigFile
