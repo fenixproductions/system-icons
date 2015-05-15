@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg3003"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="app-php-512.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-php\app-php-512.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3005">
+    <clipPath
+       id="clipPath3008"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3010"
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z" />
+    </clipPath>
+    <linearGradient
+       gradientTransform="matrix(1,0,0,-1,-110.8195,852.7348)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#SVGID_1_"
+       id="linearGradient3057"
+       y2="108.459"
+       x2="464.315"
+       y1="532.26703"
+       x1="464.315" />
+    <linearGradient
+       gradientTransform="matrix(1,0,0,-1,0.14,777.638)"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_1_"
+       y2="108.459"
+       x2="464.315"
+       y1="532.26703"
+       x1="464.315">
+      <stop
+         offset="0.1497"
+         style="stop-color:#2a4f84;stop-opacity:1"
+         id="stop13" />
+      <stop
+         offset="0.38839999"
+         style="stop-color:#294e82;stop-opacity:1"
+         id="stop15" />
+      <stop
+         offset="1"
+         style="stop-color:#172e4e;stop-opacity:1"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3798"
+       y2="84"
+       x2="299"
+       y1="84"
+       x1="150">
+      <stop
+         offset="0"
+         style="stop-color:#dddce9;stop-opacity:1"
+         id="stop3800" />
+      <stop
+         offset="0.37"
+         style="stop-color:#5664a3;stop-opacity:1"
+         id="stop3802" />
+      <stop
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop3804" />
+    </linearGradient>
+    <radialGradient
+       gradientTransform="matrix(0.80044303,0,0,0.9621231,260.76302,-20.924992)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3798"
+       id="radialGradient3870"
+       fy="-48.544521"
+       fx="77.914261"
+       r="146"
+       cy="-48.544521"
+       cx="77.914261" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3008-2">
+      <path
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z"
+         id="path3010-9" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.375"
+     inkscape:cx="64.358602"
+     inkscape:cy="196.36079"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
+     inkscape:window-y="532"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="16,376"
+       id="guide3013" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="184,496"
+       id="guide3015" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="336,16"
+       id="guide3017" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="496,248"
+       id="guide3019" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="280,112"
+       id="guide8820" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="592,144"
+       id="guide8822" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3008">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,448)">
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3021"
+       width="384"
+       height="480"
+       x="64"
+       y="-432" />
+    <rect
+       y="-429.94785"
+       x="66.090912"
+       height="476.12967"
+       width="379.93225"
+       id="rect3791"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <ellipse
+       cx="361.03601"
+       cy="-18.769945"
+       rx="77.611015"
+       ry="43.81781"
+       id="ellipse3860"
+       style="fill:#6c7eb7;stroke:#333333;stroke-width:3.04485393" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 305.1771,5.1695843 8.51183,-43.0911523 19.68361,0 c 8.51184,0.53199 12.76775,4.787906 12.76775,12.23576 0,12.767748 -10.1078,20.2156017 -19.15162,19.6836121 l -9.57581,0 -2.12796,11.1717802 -10.1078,0 z m 14.36372,-19.1516233 2.65994,-15.959686 6.91587,0 c 3.72392,0 6.38387,1.595969 6.38387,4.787906 -0.53199,9.043822 -4.7879,10.639791 -9.57581,11.17178 l -6.38387,0 z"
+       id="p"
+       style="fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 342.94836,-6.0021959 8.51183,-43.0911521 10.1078,0 -2.12796,11.17178 9.57581,0 c 8.51183,0.53199 11.70377,4.787906 10.63979,10.107801 l -3.72392,21.8115711 -10.63979,0 3.72392,-19.6836121 c 0.53199,-2.659948 0.53199,-4.255917 -3.19193,-4.255917 l -7.97985,0 -4.7879,23.9395291 -10.1078,0 z"
+       id="h"
+       style="stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="translate(71.286597,0)"
+       id="p2"
+       xlink:href="#p"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1"
+       d="m 80,-416 0,144 0,192 0,112 200,0 0,-112 152,0 0,-336 -352,0 z"
+       id="rect5273"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5352"><flowRegion
+         id="flowRegion5354"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5273"
+           id="use5356"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5360">class Person {</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5362">  public $firstName;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5364">  public $lastName;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5366"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5428">  public function __construct($firstName, $lastName = '') {  </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5370">    $this-&gt;firstName = $firstName;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5372">    $this-&gt;lastName  = $lastName;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5374">  }</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5376"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5378">  public function greet() {</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5380">    return 'Hello, my name is ' . $this-&gt;firstName .</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5382">    (($this-&gt;lastName != '') ? (' ' . $this-&gt;lastName) : '') . '.';</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5384">  }</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5386"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5388">  public static function staticGreet($firstName, $lastName) {</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5390">    return 'Hello, my name is ' . $firstName . ' ' . $lastName . '.';</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5392">  }</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5394">}</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5396"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5398">$he = new Person('John', 'Smith');</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5400">$she = new Person('Sally', 'Davis');</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5402">$other = new Person('iAmine');</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5404"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5406">echo $he-&gt;greet(); // prints &quot;Hello, my name is John Smith.&quot;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5408">echo '&lt;br /&gt;';</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5410"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5412">echo $she-&gt;greet(); // prints &quot;Hello, my name is Sally Davis.&quot;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5414">echo '&lt;br /&gt;';</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5416"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5418">echo $other-&gt;greet(); // prints &quot;Hello, my name is iAmine.&quot;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5420">echo '&lt;br /&gt;';</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5422"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000"
+         id="flowPara5424">echo Person::staticGreet('Jane', 'Doe'); // prints &quot;Hello, my name is Jane Doe.&quot;</flowPara></flowRoot>  </g>
+</svg>

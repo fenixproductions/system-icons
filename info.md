@@ -82,7 +82,6 @@ Position	Extension	Example File Type	%
 
 ## Data Files
 .keychain	Mac OS X Keychain File
-.tar	Consolidated Unix File Archive
 .tax2012	TurboTax 2012 Tax Return
 .tax2014	TurboTax 2014 Tax Return
 
@@ -134,7 +133,6 @@ Position	Extension	Example File Type	%
 .cfm	ColdFusion Markup File
 .csr	Certificate Signing Request File
 .jsp	Java Server Page
-.php	PHP Source Code File
 .rss	Rich Site Summary
 ?.xhtml	Extensible Hypertext Markup Language File
 
