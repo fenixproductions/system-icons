@@ -17,12 +17,9 @@ courier 1.6
 ---
 ebook formats:
 (http://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
-.cb7 (7z)	Comic Book Archive file
-.cba (ACE)	Comic Book Archive file
-.cbr (RAR)	Comic Book Archive file
-.cbt (TAR)	Comic Book Archive file
-.cbz (ZIP)	Comic Book Archive file
-
+comic icon kerings:
+	64x64	20
+	16x16	10
 ------------------------
 # 101 Most Popular File Types Sent Through MailBigFile
 (http://www.mailbigfile.com/101-most-popular-file-types/)
@@ -31,7 +28,6 @@ Position	Extension	Example File Type	%
 ?34	mpeg	MPEG 1 System Stream	0.17
 37	asf	Advanced Systems Format	0.15
 ?40	rm	RealMedia	0.12
-42	chm	Microsoft Compressed HTML Help	0.09
 45	dvf	Sony Compressed Voice File	0.09
 46	dss	DCC Active Designer File	0.08
 47	dmg	Disk image	0.08
