@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg3003"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="app-html-512.svg"
+   inkscape:export-filename="C:\wamp\www\TESTY\git-hub\system-icons\file-types\app-xhtml\app-html-512.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <defs
+     id="defs3005">
+    <clipPath
+       id="clipPath3008"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3010"
+         d="M 0,4105.95 0,0 l 5477.71,0 0,4105.95 -5477.71,0 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.97227182"
+     inkscape:cx="354.43041"
+     inkscape:cy="171.00256"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="2872"
+     inkscape:window-y="532"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="16,376"
+       id="guide3013" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="184,496"
+       id="guide3015" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="336,16"
+       id="guide3017" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="496,248"
+       id="guide3019" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="280,312"
+       id="guide3104" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="488,144"
+       id="guide3106" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3008">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,448)">
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3021"
+       width="384"
+       height="480"
+       x="64"
+       y="-432" />
+    <rect
+       y="-429.94785"
+       x="66.090912"
+       height="476.12967"
+       width="379.93225"
+       id="rect3791"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 80 32 L 80 480 L 272 480 L 272 360 L 432 360 L 432 32 L 80 32 z "
+       id="rect3327"
+       transform="translate(0,-448)" />
+    <g
+       id="g4986">
+      <g
+         transform="matrix(-1,0,0,-1,726.34012,-39.822335)"
+         id="g4982">
+        <polygon
+           style="fill:#e44d26"
+           points="255.778,512 107.644,470.877 74.633,100.62 437.367,100.62 404.321,470.819 "
+           id="polygon3440"
+           transform="matrix(0.29123735,0,0,0.29123735,288.6133,-109.12008)" />
+        <polygon
+           style="fill:#f16529"
+           points="376.03,447.246 404.27,130.894 256,130.894 256,480.523 "
+           id="polygon3442"
+           transform="matrix(0.29123735,0,0,0.29123735,288.6133,-109.12008)" />
+      </g>
+      <path
+         transform="translate(0,-448)"
+         id="path4980"
+         d="M 363.16992 451.51953 L 363.16992 465.43359 L 396.38672 465.12695 L 395.32617 452.17188 L 395.08594 451.51953 L 370.15039 451.51953 L 363.16992 451.51953 z "
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1" />
+      <path
+         transform="translate(0,-448)"
+         id="path4978"
+         d="M 363.16992 424.7793 L 356.08398 424.84961 L 333.46484 425.15234 L 329.95312 464.99805 L 363.1582 465.43359 L 363.16992 465.43359 L 363.16992 451.51953 L 345.21289 451.51953 L 345.21289 450.32227 L 346.23242 439.11914 L 363.16992 438.98633 L 363.16992 424.7793 z "
+         style="opacity:1;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1" />
+      <path
+         transform="translate(0,-448)"
+         id="path4976"
+         d="M 363.16992 390.03711 L 350.53125 393.53516 L 335.81445 398.12695 L 334.06055 418.77539 L 347.75 418.68945 L 348.41016 413.63281 L 348.95508 408.68359 L 363.05664 404.85547 L 363.16992 404.88672 L 363.16992 390.03711 z "
+         style="opacity:1;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1" />
+      <path
+         transform="translate(0,-448)"
+         id="rect4958"
+         d="M 363.16992 390.03711 L 363.16992 404.88672 L 377.29883 408.79102 L 378.6543 424.62305 L 363.16992 424.7793 L 363.16992 438.98633 L 369.77344 438.93359 L 393.70898 438.71875 L 392.47656 418.61133 L 390.58008 398.27734 L 375.46094 393.39062 L 363.24023 390.01758 L 363.16992 390.03711 z "
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.39370039;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5073"><flowRegion
+         id="flowRegion5075"><use
+           x="0"
+           y="0"
+           xlink:href="#rect3327"
+           id="use5077"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5079">&lt;html&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5081">&lt;head&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5083">  &lt;meta charset=&quot;utf-8&quot; /&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5085">  &lt;meta name=&quot;author&quot; content=&quot;fenixproductions&quot; /&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5087">  &lt;title&gt;fenixproductions icons&lt;/title&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5089">  &lt;link rel=&quot;stylesheet&quot; href=&quot;styles/main.css&quot; /&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5091">  &lt;script src=&quot;scripts/main.js&quot;&gt;&lt;/script&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5093">&lt;/head&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5095">&lt;body&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5097">  &lt;div id=&quot;mymainframe&quot;&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5099">    &lt;div class=&quot;wrapper&quot;&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5101">      &lt;header&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5103">        &lt;img width=&quot;80&quot; height=&quot;86&quot; alt=&quot;logo&quot; src=&quot;images/fenix80.png&quot; /&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5105">        &lt;h1&gt;fenixproductions&lt;/h1&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5107">        &lt;nav&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5109">         &lt;ul class=&quot;menu&quot;&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5111">           &lt;li&gt;&lt;a href=&quot;/index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5113">           &lt;li&gt;&lt;a href=&quot;/projects/index.html&quot;&gt;My projects&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5115">           &lt;li&gt;&lt;a href=&quot;/software/index.html&quot;&gt;Software&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5117">						&lt;li&gt;&lt;a href=&quot;/other/index.html&quot;&gt;Other&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5119">						&lt;li&gt;&lt;a href=&quot;/about/index.html&quot;&gt;About&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5121">					&lt;/ul&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5123">				&lt;/nav&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5125">			&lt;/header&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5127">			&lt;section&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5129">				&lt;header&gt;Welcome to my homepage&lt;/header&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5131">				&lt;article&gt;this is sample text to fill later on&lt;/article&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5133">				&lt;footer&gt;welcome footer&lt;/footer&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5135">			&lt;/section&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5137">		&lt;/div&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5139">	&lt;/div&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+         id="flowPara5141">&lt;/body&gt;</flowPara></flowRoot>  </g>
+</svg>

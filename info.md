@@ -134,7 +134,6 @@ Position	Extension	Example File Type	%
 .csr	Certificate Signing Request File
 .jsp	Java Server Page
 .rss	Rich Site Summary
-?.xhtml	Extensible Hypertext Markup Language File
 
 # Font Files
 .fnt	Windows Font File
