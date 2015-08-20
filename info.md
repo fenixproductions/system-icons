@@ -159,7 +159,6 @@ Position	Extension	Example File Type	%
 .uue	Uuencoded File
 
 # Compressed Files
-.cbr	Comic Book RAR Archive
 .gz	Gnu Zipped Archive
 ?.sitx	StuffIt X Archive
 .tar.gz	Compressed Tarball File
